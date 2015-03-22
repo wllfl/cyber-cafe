@@ -61,6 +61,13 @@ h2.subtitulo-pagina{
     float: left;
 }
 
+.location{
+    color: #fff;
+    font-size: 0.8em;
+    text-align: center;
+    display: block;
+}
+
 /*....................................Menu....................................*/
 .navbar {
     background: #181A1C;
@@ -414,7 +421,7 @@ background-color: #0098ee;
     display: block;
 }
 .desenvolvido{
-    margin-top: 18%;
+    margin-top: 5%;
     color: rgba(255,255,255,0.5);
 }
 .desenvolvido strong{
