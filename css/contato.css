@@ -1,0 +1,26 @@
+
+.map-wrapper {
+    position:relative;
+    height:500px;
+}
+.map-canvas {
+    position:absolute;
+    margin-bottom:20px;
+    width:100%;
+    height:500px;
+    color: #29383F;
+    position:absolute;
+    left:0;
+    top:0;
+    right:0;
+}
+.infoContato{
+    color:#181A1C;
+    font-weight: bold;
+}
+.infoContato label{
+    border-bottom:1px solid #CCCCCC;
+}
+.linhaContato{
+    border:1px solid  #32B0E7;;
+}

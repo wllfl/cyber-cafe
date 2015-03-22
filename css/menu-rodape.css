@@ -1,0 +1,151 @@
+/*................MENU..................*/
+.navbar {
+    background: #181A1C;
+    margin-bottom:0;
+    min-height:70px;
+    padding: 10px 0;
+}
+
+.navbar-fixed-top {
+    min-height:60px;
+    height:60px;
+    padding-top:0;
+}
+
+.navbar .brand img {
+    width:120px;
+    height:40px;
+}
+.navbar .nav > li > a {
+    text-transform:uppercase;
+    line-height: auto;
+    vertical-align: middle;
+    margin:10px 3px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    border: 1px solid #181A1C;
+    box-shadow: none;
+    font-size:15px;
+    text-shadow: none;
+    color: #fff;
+    transition: border-color 1s ease;
+}
+.navbar .nav > li:hover> a,
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus,
+#pg-principal #principal a,
+#pg-jogos #jogos a,
+#pg-conectividade #conectividade a,
+#pg-servicos #servicos a,
+#pg-desenvolvimento #desenvolvimento a,
+#pg-contato #contato a{
+    border-bottom: 3px solid #FECE1A;
+    color: #fff;
+    background-color: #181A1C;
+    transition: border-color 1s ease;
+}
+.nav-pills {
+    margin-bottom: 30px;
+}
+.nav-pills > li > a {
+    background: transparent;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    margin-right:5px;
+    padding-left:25px;
+    padding-right:25px;
+    border: 1px solid #0090E4;
+}
+.nav-pills > li > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover, .nav-pills > .active > a:focus {
+    /*background: #181A1C;*/
+    background-color: rgba(0, 158, 227, 0.8);
+    color: #fff;
+}
+.navbar .btn-navbar:hover, .navbar .btn-navbar {
+    border-radius:0;
+    background:#FECE1A;
+    color: #000;
+}
+.logoMenu{
+    width: 90px;
+    height: 63px;
+    display: inline-block;
+}
+
+h1.logo {
+    width: 100px;
+    height: 63px; 
+    background: url("../img/logo-cyber-cafe.png");
+    text-indent: -9999px;
+    margin: 0;
+}
+#pg-principal{
+    color: #000;
+}
+
+.box-servico{
+    margin-bottom: 1.5em;
+}
+
+
+.item {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+#home-slider {
+    overflow: hidden;
+}
+
+.sl-slider-wrapper {
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.sl-slider {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/*................RODAPE..................*/
+#rodape{
+    min-height: 200px;
+    background-color: #000;
+    color: #fff;
+    position: relative;
+    padding: 2.0em 0;
+}
+.iconeFacebook{
+    font-size: 4rem;
+    margin: 0.7em;
+    display: block;
+}
+.desenvolvido{
+    margin-top: 18%;
+    color: rgba(255,255,255,0.5);
+}
+.desenvolvido strong{
+    color: #FECE1A;
+}
+.pagSeguro{
+    display: inline-block;
+    width: 13%;
+    height: 55px;
+    position: absolute;
+    left: 80%;
+    top: 45%;
+}
+.pagSeguro span{
+    font-size: 0.8rem;
+}
+.pagSeguro img{
+    width: 100%
+}
