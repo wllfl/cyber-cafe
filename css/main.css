@@ -408,13 +408,6 @@ background-color: #0098ee;
 }
 
 /*....................................Rodape....................................*/
-#rodape{
-    min-height: 200px;
-    background-color: #000;
-    color: #fff;
-    position: relative;
-    padding: 2.0em 0;
-}
 .iconeFacebook{
     font-size: 4rem;
     margin: 0.7em;

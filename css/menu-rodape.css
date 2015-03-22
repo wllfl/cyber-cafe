@@ -121,7 +121,7 @@ h1.logo {
     background-color: #000;
     color: #fff;
     position: relative;
-    padding: 2.0em 0;
+    padding: 2.2em 0;
 }
 .iconeFacebook{
     font-size: 4rem;
@@ -148,4 +148,16 @@ h1.logo {
 }
 .pagSeguro img{
     width: 100%
+}
+
+.link-rodape{
+    text-decoration: none;
+    color: #fff;
+    font-size: 0.9em;
+    padding: 0 0.6em;
+}
+
+.link-icon{
+    color: #fff;
+    margin: 0 10px;
 }
