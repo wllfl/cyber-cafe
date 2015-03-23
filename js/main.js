@@ -31,15 +31,12 @@ function initializeMap() {
     var lat = '-23.549029'; //Set your latitude.
     var lon = '-47.181198'; //Set your longitude.
 
-    var centerLon = lon - 0.0105;
-
     var myOptions = {
-        scrollwheel: false,
-        draggable: false,
         disableDefaultUI: true,
-        center: new google.maps.LatLng(lat, centerLon),
+        center: new google.maps.LatLng(lat, lon),
         zoom: 15,
-        mapTypeId: google.maps.MapTypeId.ROADMAP
+        mapTypeId: google.maps.MapTypeId.ROADMAP,
+        mapTypeControl: true
     };
 
     //Bind map to elemet with id map-canvas
@@ -47,9 +44,11 @@ function initializeMap() {
     var marker = new google.maps.Marker({
         map: map,
         position: new google.maps.LatLng(lat, lon),
+        animation: google.maps.Animation.DROP
     });
 
     var infowindow = new google.maps.InfoWindow();
+    infowindow.setContent('Cyber Café 24H');
 
     google.maps.event.addListener(marker, 'click', function () {
         infowindow.open(map, marker);
