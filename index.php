@@ -76,7 +76,7 @@
             <div class="col-md-3 box-servico">
                 <div class="ca-hover">
                     <div class="carousel-img">
-                        <img src="img/thumbs-home/c03.jpg" alt="Carousel Img">
+                        <img src="img/thumbs-home/thumb-games.png" height="161" width="257" alt="Carousel Img">
                     </div>
                     <div class="carousel-content">
                         <h3>JOGOS ONLINE</h3>
@@ -91,7 +91,7 @@
             <div class="col-md-3 box-servico">
                 <div class="ca-hover">
                     <div class="carousel-img">
-                        <img src="img/thumbs-home/c02.jpg" alt="Carousel Img">
+                        <img src="img/thumbs-home/thumb-conectividade.png" height="161" width="257" alt="Carousel Img">
                     </div>
                     <div class="carousel-content">
                         <h3>CONECTIVIDADE</h3>
@@ -106,7 +106,7 @@
             <div class="col-md-3 box-servico">
                 <div class="ca-hover">
                     <div class="carousel-img">
-                        <img src="img/thumbs-home/c03.jpg" alt="Carousel Img">
+                        <img src="img/thumbs-home/thumb-servicos.png" height="161" width="257" alt="Carousel Img">
                     </div>
                     <div class="carousel-content">
                         <h3>SERVIÇOS</h3>
@@ -121,7 +121,7 @@
             <div class="col-md-3 box-servico">
                 <div class="ca-hover">
                     <div class="carousel-img">
-                        <img src="img/thumbs-home/c02.jpg" alt="Carousel Img">
+                        <img src="img/thumbs-home/thumb-desenvolvimento.png" height="161" width="257" alt="Carousel Img">
                     </div>
                     <div class="carousel-content">
                         <h3>DESENVOLVIMENTO</h3>
