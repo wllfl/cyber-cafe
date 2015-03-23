@@ -110,7 +110,7 @@
                     </div>
                     <div class="carousel-content">
                         <h3>SERVIÇOS</h3>
-                          <p>Realizamos diversos que necessitam de conexão com a internet, entre eles emissão de 2º via de documentos, cadastros, impressões e digitalizações ... </p>
+                          <p>Realizamos diversos serviços que necessitam ou não de conexão com a internet, entre eles emissão de 2º via de documentos, cadastros, impressões e digitalizações ... </p>
                         <a href="servicos-online-oferecidos" class='link-home'>Veja +</a>
                     </div>
                 </div>

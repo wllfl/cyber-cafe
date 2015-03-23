@@ -153,11 +153,27 @@ h1.logo {
 .link-rodape{
     text-decoration: none;
     color: #fff;
-    font-size: 0.9em;
+    font-size: 0.8em;
     padding: 0 0.6em;
 }
 
 .link-icon{
     color: #fff;
     margin: 0 10px;
+}
+
+.box-like{
+   height: auto;
+  width: auto;
+  background: #fff;
+  padding: 0;
+  float: right;
+}
+
+.box-pag-seguro{
+    margin-top: 45px;
+}
+
+.box-icon{
+    text-align: center;
 }

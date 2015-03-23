@@ -12,14 +12,19 @@
 		  		</span>
 			</div>
 			<br/><br/>
-			<div class="col-md-4 col-md-offset-5">
+			<div class="col-md-6 col-md-offset-3 box-icon">
 		  		<a href="#" class='link-icon'><i class="fa fa-facebook-square fa-3x"></i></a>
 		  		<a href="#" class='link-icon'><i class="fa fa-envelope-o fa-3x"></i></a>
 			</div>
 			<br/><br/><br/><br/>
-			<div class="col-md-3 col-md-offset-1">
-				<span class="text-center">Trabalhamos com PagSeguro</span>
-				<img src="img/pag-seguro.png" alt="PagSeguro">
+			<div class="row-fluid">
+				<div class="col-md-6 box-pag-seguro">
+					<span class="link-rodape text-center">Trabalhamos com PagSeguro</span><br>
+					<img src="img/pag-seguro.png" alt="PagSeguro">
+				</div>	
+				<div class="col-md-6 box-like">
+					<div class="fb-like-box" data-href="https://www.facebook.com/pages/WLL-Sistemas-Solu%C3%A7%C3%B5es-em-Tecnologia-da-Informa%C3%A7%C3%A3o/327263654076457?ref=bookmarks" data-width="500" data-height="200" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="true"></div>
+				</div>	
 			</div>
 			<br/><br/><br/><br/>
 			<div class="col-md-4 col-md-offset-4">
@@ -29,4 +34,12 @@
 			</div>	  	
 		</div>
 	</div>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.0";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
 </div>
