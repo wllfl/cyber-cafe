@@ -43,7 +43,7 @@
             <div class="slider-inner">
                 <div class="slide-caption">
                     <div class="caption-content">
-                        <h2 class="animated fadeInDown"><span>Diversos Jogos em 360, PS3 e PS4</span></h2>
+                        <h2 class="animated fadeInDown"><span>Diversos Jogos para Xbox 360, PS3 e PS4</span></h2>
                         <ul class='one-page'>
                           <li><a href="conectividade-internet" class="btn btn-red btn-effect">Veja Mais</a></li>
                         </ul>
