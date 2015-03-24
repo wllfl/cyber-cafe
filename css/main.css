@@ -173,6 +173,15 @@ h1.logo {
     overflow: hidden;
 }
 
+h2.animated span{
+  display: block;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 15px;
+  width: 60%;
+  margin: 0 auto;
+}
+
 .link-home{
     display: block;
   font-size: 0.8em;
@@ -318,6 +327,14 @@ background-color: #0098ee;
     box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.15) inset;
     padding: 15px 55px;
     color: #fff;
+}
+
+.btn-red{
+  background: rgba(254, 17, 35, 0.90);
+  box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.15) inset;
+  padding: 15px 55px;
+  color: #FFF;
+  font-weight: bold;
 }
 
 .btn-border {
