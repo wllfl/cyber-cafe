@@ -45,7 +45,7 @@
                     <div class="caption-content">
                         <h2 class="animated fadeInDown">Conectividade com a internet</h2>
                         <ul class='one-page'>
-                          <li><a href="conectividade-internet" class="btn btn-blue btn-effect">Veja Mais</a></li>
+                          <li><a href="conectividade-internet " class="btn btn-blue btn-effect">Veja Mais</a></li>
                         </ul>
                     </div>
                 </div>
@@ -96,7 +96,7 @@
                     <div class="carousel-content">
                         <h3>CONECTIVIDADE</h3>
                         <p>Possuímos máquinas modernas, link para internet de 10 MB e conforto, navegue tranquilamente com pesquisas, assista vídeos, faça downloads sem demora ... </p>
-                        <a href="conectvidade-internet" class='link-home'>Veja +</a>
+                        <a href="conectividade-internet" class='link-home'>Veja +</a>
                     </div>
                 </div>
             </div>
