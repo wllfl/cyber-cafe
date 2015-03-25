@@ -28,8 +28,8 @@ $(document).ready(function() {
 
 function initializeMap() {
 
-    var lat = '-23.549029'; //Set your latitude.
-    var lon = '-47.181198'; //Set your longitude.
+    var lat = '-23.547750'; //Set your latitude.
+    var lon = '-47.184600'; //Set your longitude.
 
     var myOptions = {
         disableDefaultUI: true,
