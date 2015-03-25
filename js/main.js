@@ -21,7 +21,7 @@ $(document).ready(function() {
 			"<i class='fa fa-angle-left'></i>",
 			"<i class='fa fa-angle-right'></i>"
 			],
-	    autoPlay: true,
+	    autoPlay: false,
 	    responsive: true
     });
 });

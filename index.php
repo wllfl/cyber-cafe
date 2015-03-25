@@ -26,39 +26,52 @@
     <section id="home-slider">
       <div id="slider" class="owl-carousel">
 
-          <div class="item" style="background-image: url(img/slider/home/games.jpg);">
+          <div class="item" style="background-image: url(img/slider/home/conectividade-internet.jpg);">
               <div class="slider-inner">
                   <div class="slide-caption">
                     <div class="caption-content">
-                        <h2 class="animated fadeInDown">Nossa infraestrutura para Games</h2>
+                        <h2 class="animated fadeInDown"><span>Conectividade com a internet</span></h2>
                         <ul class='one-page'>
-                          <li><a href="jogos-online" class="btn btn-blue btn-effect">Veja Mais</a></li>
+                          <li><a href="jogos-online" class="btn btn-red btn-effect">Veja Mais</a></li>
                         </ul>
                     </div>
                   </div>
               </div>
           </div><!--/.item-->
 
-          <div class="item" style="background-image: url(img/slider/home/games3.jpg);">
+          <div class="item" style="background-image: url(img/slider/home/jogos-online.jpg);">
             <div class="slider-inner">
                 <div class="slide-caption">
                     <div class="caption-content">
-                        <h2 class="animated fadeInDown">Conectividade com a internet</h2>
+                        <h2 class="animated fadeInDown"><span>Diversos Jogos para Xbox 360, PS3 e PS4</span></h2>
                         <ul class='one-page'>
-                          <li><a href="conectividade-internet " class="btn btn-blue btn-effect">Veja Mais</a></li>
+                          <li><a href="conectividade-internet" class="btn btn-red btn-effect">Veja Mais</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
           </div><!--/.item-->
 
-          <div class="item" style="background-image: url(img/slider/home/cyber-games3.jpg);">
+          <div class="item" style="background-image: url(img/slider/home/servicos-oferecidos.jpg);">
               <div class="slider-inner">
                   <div class="slide-caption">
                       <div class="caption-content">
-                          <h2 class="animated fadeInDown">Diveros Serviços On-Line</h2>
+                          <h2 class="animated fadeInDown"><span>Diveros Serviços On-Line</span></h2>
                           <ul class='one-page'>
-                            <li><a href="servicos-online-oferecidos" class="btn btn-blue btn-effect">Veja Mais</a></li>
+                            <li><a href="servicos-online-oferecidos" class="btn btn-red btn-effect">Veja Mais</a></li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+          </div><!--/.item-->
+
+          <div class="item" style="background-image: url(img/slider/home/desenvolvimento-sistemas-e-sites.jpg);">
+              <div class="slider-inner">
+                  <div class="slide-caption">
+                      <div class="caption-content">
+                          <h2 class="animated fadeInDown"><span>Desenvolvimento de Sistemas, Sites e Consultorias</span></h2>
+                          <ul class='one-page'>
+                            <li><a href="servicos-online-oferecidos" class="btn btn-red btn-effect">Veja Mais</a></li>
                           </ul>
                       </div>
                   </div>

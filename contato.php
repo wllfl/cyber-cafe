@@ -37,23 +37,23 @@
     </div> 
     <!-- INICIO CONTATO  -->
     <div class="container">
-      <div class="row col-md-12 infoContato">
-        <div class="col-md-5">
-          <h3 class="subtitulo">Informações para o contato: </h3>
+      <div class="row-fluid infoContato">
+        <div class="span5">
+          <h2 class="subtitulo-pagina">Informações </h2>
           <hr class="linhaContato">
-          <label for="responsavel">Reponsável: </label>
-          <label for="email">E-Mail: </label>
-          <label for="telefone">Telefone: </label>
-          <label for="celular">Celular: </label>
+              <p><i class="fa fa-user"></i> Responsável: Heleno</p>
+              <p><i class="fa fa-phone"></i> Fixo: (99) 9999 - 9999</p>
+              <p><i class="fa fa-phone"></i> Celular Vivo: (99) 9999 - 9999</p>
+              <p><i class="fa fa-envelope"></i><a href=""> heleno@cyber.com</a></p>
         </div>
 
-        <div class="col-md-5 pull-right">
-          <form >
-                <input type="text" class="form-control" placeholder="Nome">
-                <input type="text" class="form-control" placeholder="E-Mail">
-                <input type="text" class="form-control" placeholder="Telefone Residencial">
-                <input type="text" class="form-control" placeholder="Assunto">
-                <textarea class="form-control" rows="3" class="textarea"></textarea>
+        <div class="span7 form-contato">
+          <form>
+                <input type="text" class="input-contato" placeholder="Nome">
+                <input type="text" class="input-contato" placeholder="E-Mail">
+                <input type="text" class="input-contato" placeholder="Telefone Residencial">
+                <input type="text" class="input-contato" placeholder="Assunto">
+                <textarea class="input-contato textarea" rows="10"  placeholder="Digite sua mensagem"></textarea>
                 <input type="submit" class="btn btn-large btn-info">
           </form>
         </div>
@@ -62,9 +62,7 @@
     <!-- FIM CONTATO -->
 
     <!-- INICIO MAPA -->
-    <div class="map-wrapper">
         <div class="map-canvas" id="map-canvas">Carregando nosso endereço...</div>
-    </div>
     <!-- FIM MAPA -->   
 
     <!-- INICIO RODAPÉ -->

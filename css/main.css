@@ -6,16 +6,20 @@
     font-size:17px;
     line-height:20px;
 }
-a {
-    color:#181A1C;
+a, a:hover, a:focus, .btn:focus {
     text-decoration: none;
+    outline: none;
+    color: #32B0E7;
+}
+
+
 }
 a:hover {
     color: #FECE1A;
     text-decoration:none;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-weight: normal;
+    font-weight: norcal;
 }
 h1 {
     margin: 10px;
@@ -44,7 +48,7 @@ p {
 }
 
 h2.subtitulo-pagina{
-    color: #000;
+    color: #32B0E7;
     font-size: 1.5em;
     text-transform: uppercase;
     text-align: left;
