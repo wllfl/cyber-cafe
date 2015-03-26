@@ -63,7 +63,7 @@
                     <li class="filter" data-filter="ps3">
                         <a href="#noAction">PS3</a>
                     </li>
-                    <li class="filter" data-filter="identity">
+                    <li class="filter" data-filter="360">
                         <a href="#noAction">X-Box360</a>
                     </li>
                 </ul>
@@ -71,12 +71,12 @@
                 <div id="single-project">
                     <div id="slidingDiv" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio01.png" alt="project 1" />
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/N3sp3Qes94I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>FIFA 15</h3>
+                                    <h3>ASSASSINS CREED</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -105,7 +105,7 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>GUITAR HERO</h3>
+                                    <h3>BATLEFIELD 4</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -133,7 +133,7 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>THE LAST OF US</h3>
+                                    <h3>CALL OF DUTY GHOST</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -161,7 +161,7 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>THE ORDER</h3>
+                                    <h3>FIFA 14</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -189,7 +189,7 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>DYNING LIGHT</h3>
+                                    <h3>FIFA 15</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -217,7 +217,7 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>BATTLEFIELD HIGHLIGHT</h3>
+                                    <h3>FORZA HORIZON 2</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -245,7 +245,7 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>CALL OF DUTY</h3>
+                                    <h3>GTA V</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -273,7 +273,7 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>FORZA</h3>
+                                    <h3>HALO 4</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -301,7 +301,7 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>DEAD RISING 3</h3>
+                                    <h3>INJUSTICE</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -321,106 +321,262 @@
                         </div>
                     </div>
                     <!-- End details for portfolio project 9 -->
+                    <!-- Start details for portfolio project 10 -->
+                    <div id="slidingDiv9" class="toggleDiv row-fluid single-project">
+                        <div class="span6">
+                            <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
+                        </div>
+                        <div class="span6">
+                            <div class="project-description">
+                                <div class="project-title clearfix">
+                                    <h3>KILLZONE</h3>
+                                    <span class="show_hide close">
+                                        <i class="icon-cancel"></i>
+                                    </span>
+                                </div>
+                                <div class="project-info">
+                                    <div>
+                                        <span>Client</span>Some Client Name</div>
+                                    <div>
+                                        <span>Date</span>July 2013</div>
+                                    <div>
+                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                    <div>
+                                        <span>Link</span>http://examplecomp.com</div>
+                                </div>
+                                <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End details for portfolio project 10 -->
+                    <!-- Start details for portfolio project 11 -->
+                    <div id="slidingDiv10" class="toggleDiv row-fluid single-project">
+                        <div class="span6">
+                            <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
+                        </div>
+                        <div class="span6">
+                            <div class="project-description">
+                                <div class="project-title clearfix">
+                                    <h3>PES 2015</h3>
+                                    <span class="show_hide close">
+                                        <i class="icon-cancel"></i>
+                                    </span>
+                                </div>
+                                <div class="project-info">
+                                    <div>
+                                        <span>Client</span>Some Client Name</div>
+                                    <div>
+                                        <span>Date</span>July 2013</div>
+                                    <div>
+                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                    <div>
+                                        <span>Link</span>http://examplecomp.com</div>
+                                </div>
+                                <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End details for portfolio project 11 -->
+                    <!-- Start details for portfolio project 12 -->
+                    <div id="slidingDiv11" class="toggleDiv row-fluid single-project">
+                        <div class="span6">
+                            <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
+                        </div>
+                        <div class="span6">
+                            <div class="project-description">
+                                <div class="project-title clearfix">
+                                    <h3>THE LAST OF US</h3>
+                                    <span class="show_hide close">
+                                        <i class="icon-cancel"></i>
+                                    </span>
+                                </div>
+                                <div class="project-info">
+                                    <div>
+                                        <span>Client</span>Some Client Name</div>
+                                    <div>
+                                        <span>Date</span>July 2013</div>
+                                    <div>
+                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                    <div>
+                                        <span>Link</span>http://examplecomp.com</div>
+                                </div>
+                                <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End details for portfolio project 12 -->   
+                    <!-- Start details for portfolio project 12 -->
+                    <div id="slidingDiv12" class="toggleDiv row-fluid single-project">
+                        <div class="span6">
+                            <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
+                        </div>
+                        <div class="span6">
+                            <div class="project-description">
+                                <div class="project-title clearfix">
+                                    <h3>WATCH DOG</h3>
+                                    <span class="show_hide close">
+                                        <i class="icon-cancel"></i>
+                                    </span>
+                                </div>
+                                <div class="project-info">
+                                    <div>
+                                        <span>Client</span>Some Client Name</div>
+                                    <div>
+                                        <span>Date</span>July 2013</div>
+                                    <div>
+                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                    <div>
+                                        <span>Link</span>http://examplecomp.com</div>
+                                </div>
+                                <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End details for portfolio project 12 -->                                         
                     <ul id="portfolio-grid" class="thumbnails row">
                         <li class="span4 mix ps4">
                             <div class="thumbnail">
-                                <img src="img/thumbs-games/Portfolio01.png" alt="project 1">
+                                <img src="img/thumbs-games/assassins-creed-rogue.jpg" alt="Assasins Creed">
                                 <a href="#single-project" class="more show_hide" rel="#slidingDiv">
                                     <i class="icon-plus"></i>
                                 </a>
-                                <h3>FIFA 15</h3>
+                                <h3>ASSASINS CREED</h3>
+                                <p>Aventura  de um pirata</p>
+                                <div class="mask"></div>
+                            </div>
+                        </li>
+                        <li class="span4 mix ps3">
+                            <div class="thumbnail">
+                                <img src="img/thumbs-games/batlefield-4.jpg" alt="Batlefild 4">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv1">
+                                    <i class="icon-plus"></i>
+                                </a>
+                                <h3>BATLEFIELD 4</h3>
+                                <p>Simulador de Guerra</p>
+                                <div class="mask"></div>
+                            </div>
+                        </li>
+                        <li class="span4 mix 360">
+                            <div class="thumbnail">
+                                <img src="img/thumbs-games/call-of-duty-ghost.jpg" alt="Call Of Duty Ghost">
+                                <a href="#single-project" class="more show_hide" rel="#slidingDiv2">
+                                    <i class="icon-plus"></i>
+                                </a>
+                                <h3>CALL OF DUTY GHOST</h3>
+                                <p>Jogo de guerra</p> 
+                                <div class="mask"></div>
+                            </div>
+                        </li>
+                        <li class="span4 mix ps3">
+                            <div class="thumbnail">
+                                <img src="img/thumbs-games/fifa-14.jpg" alt="FIFA 14">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv3">
+                                    <i class="icon-plus"></i>
+                                </a>
+                                <h3>FIFA 14</h3>
                                 <p>Simulador de Futebol</p>
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix ps3">
+                        <li class="span4 mix 360">
                             <div class="thumbnail">
-                                <img src="img/thumbs-games/Portfolio02.png" alt="project 2">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv1">
-                                    <i class="icon-plus"></i>
-                                </a>
-                                <h3>GUITAR HERO LEGENDS OF ROCK</h3>
-                                <p>Simulador da lenda do rock</p>
-                                <div class="mask"></div>
-                            </div>
-                        </li>
-                        <li class="span4 mix identity">
-                            <div class="thumbnail">
-                                <img src="img/thumbs-games/Portfolio03.png" alt="project 3">
-                                <a href="#single-project" class="more show_hide" rel="#slidingDiv2">
-                                    <i class="icon-plus"></i>
-                                </a>
-                                <h3>THE LAST OF US</h3>
-                                <p>Jogo de aventura após o apocalipse</p> 
-                                <div class="mask"></div>
-                            </div>
-                        </li>
-                        <li class="span4 mix ps4">
-                            <div class="thumbnail">
-                                <img src="img/thumbs-games/Portfolio04.png" alt="project 4">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv3">
-                                    <i class="icon-plus"></i>
-                                </a>
-                                <h3>THE ORDER</h3>
-                                <p>Jogo que se passa no passado</p>
-                                <div class="mask"></div>
-                            </div>
-                        </li>
-                        <li class="span4 mix ps3">
-                            <div class="thumbnail">
-                                <img src="img/thumbs-games/Portfolio05.png" alt="project 5">
+                                <img src="img/thumbs-games/fifa-15.jpg" alt="FIFA 15">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv4">
                                     <i class="icon-plus"></i>
                                 </a>
-                                <h3>DYNING LIGHT</h3>
-                                <p>Aventura de le pakur matando zumbi</p>
-                                <div class="mask"></div>
-                            </div>
-                        </li>
-                        <li class="span4 mix identity">
-                            <div class="thumbnail">
-                                <img src="img/thumbs-games/Portfolio06.png" alt="project 6">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv5">
-                                    <i class="icon-plus"></i>
-                                </a>
-                                <h3>BATTLEFIELD HIGHLIGHT</h3>
-                                <p>Simulador de guerra</p>
-                                <div class="mask"></div>
-                            </div>
-                        </li>
-                        <li class="span4 mix ps4">
-                            <div class="thumbnail">
-                                <img src="img/thumbs-games/Portfolio07.png" alt="project 7" />
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv6">
-                                    <i class="icon-plus"></i>
-                                </a>
-                                <h3>CALL OF DUTY</h3>
-                                <p>Jogo de guerra excelente multiplayer</p>
+                                <h3>FIFA 15</h3>
+                                <p>Novo simulador de futebol</p>
                                 <div class="mask"></div>
                             </div>
                         </li>
                         <li class="span4 mix ps3">
                             <div class="thumbnail">
-                                <img src="img/thumbs-games/Portfolio08.png" alt="project 8">
+                                <img src="img/thumbs-games/forza-horizon-2.jpg" alt="Forza horizon">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv5">
+                                    <i class="icon-plus"></i>
+                                </a>
+                                <h3>FORZA HORIZON</h3>
+                                <p>Simulador de corrida</p>
+                                <div class="mask"></div>
+                            </div>
+                        </li>
+                        <li class="span4 mix 360">
+                            <div class="thumbnail">
+                                <img src="img/thumbs-games/gta.jpg"alt="GTA V">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv6">
+                                    <i class="icon-plus"></i>
+                                </a>
+                                <h3>GTA V</h3>
+                                <p>Jogo de aventura e distruição</p>
+                                <div class="mask"></div>
+                            </div>
+                        </li>
+                        <li class="span4 mix ps4">
+                            <div class="thumbnail">
+                                <img src="img/thumbs-games/halo-4.jpg" alt="HALO 4" />
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv7">
                                     <i class="icon-plus"></i>
                                 </a>
-                                <h3>FORZA</h3>
-                                <p>Simulador de carro</p>
+                                <h3>HALO 4</h3>
+                                <p>Melhor jogo futurista</p>
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix identity">
+                        <li class="span4 mix 360">
                             <div class="thumbnail">
-                                <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
+                                <img src="img/thumbs-games/injustice.jpg" alt="Injustice">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv8">
                                     <i class="icon-plus"></i>
                                 </a>
-                                <h3>DEAD RISING 3</h3>
-                                <p>Arcade de matar zumbi</p>
+                                <h3>Injustice</h3>
+                                <p>Luta dos super-heróis</p>
                                 <div class="mask"></div>
                             </div>
                         </li>
+                        <li class="span4 mix 360">
+                            <div class="thumbnail">
+                                <img src="img/thumbs-games/killzone.jpg" alt="killzone">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv9">
+                                    <i class="icon-plus"></i>
+                                </a>
+                                <h3>KILLZONE</h3>
+                                <p>Jogo de aventura na selva</p>
+                                <div class="mask"></div>
+                            </div>
+                        </li>
+                        <li class="span4 mix 360">
+                            <div class="thumbnail">
+                                <img src="img/thumbs-games/pes-2015.jpg" alt="PES 15">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv10">
+                                    <i class="icon-plus"></i>
+                                </a>
+                                <h3>PES 2015</h3>
+                                <p>Jogo de futebo</p>
+                                <div class="mask"></div>
+                            </div>
+                        </li> 
+                        <li class="span4 mix 360">
+                            <div class="thumbnail">
+                                <img src="img/thumbs-games/the-last-of-us.jpg" alt="killzone">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv11">
+                                    <i class="icon-plus"></i>
+                                </a>
+                                <h3>THE LAST OF US</h3>
+                                <p>Jogo de sobrevivência</p>
+                                <div class="mask"></div>
+                            </div>
+                        </li>
+                        <li class="span4 mix 360">
+                            <div class="thumbnail">
+                                <img src="img/thumbs-games/watch-dogs.jpg" alt="Watch Dogs">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv12">
+                                    <i class="icon-plus"></i>
+                                </a>
+                                <h3>WATCH DOGS</h3>
+                                <p>Um hacker na cidade</p>
+                                <div class="mask"></div>
+                            </div>
+                        </li>                        
                     </ul>
                 </div>
             </div>

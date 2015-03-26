@@ -324,6 +324,14 @@ background-color: #0098ee;
     color: #fff;
 }
 
+.btn-red{
+  background: rgba(254, 17, 35, 0.90);
+  box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.15) inset;
+  padding: 15px 55px;
+  color: #FFF;
+  font-weight: bold;
+}
+
 .btn-border {
     border: 2px solid #fff;
     color: #fff;
