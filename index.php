@@ -108,7 +108,7 @@
                     </div>
                     <div class="carousel-content">
                         <h3>CONECTIVIDADE</h3>
-                        <p>Possuímos máquinas modernas, link para internet de 10 MB e conforto, navegue tranquilamente com pesquisas, assista vídeos, faça downloads sem demora ... </p>
+                        <p>Possuímos máquinas modernas, link para internet com + de 15 MB, navegue tranquilamente com todo conforto, qualidade e privacidade ... </p>
                         <a href="conectividade-internet" class='link-home'>Veja +</a>
                     </div>
                 </div>
@@ -123,7 +123,7 @@
                     </div>
                     <div class="carousel-content">
                         <h3>SERVIÇOS</h3>
-                          <p>Realizamos diversos serviços que necessitam ou não de conexão com a internet, entre eles emissão de 2º via de documentos, cadastros, impressões e digitalizações ... </p>
+                          <p>Realizamos diversos serviços que necessitam ou não de conexão com a internet, sendo de forma rápida, confiável e conveniente. Infraestrutura completa ... </p>
                         <a href="servicos-online-oferecidos" class='link-home'>Veja +</a>
                     </div>
                 </div>

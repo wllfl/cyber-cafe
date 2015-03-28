@@ -41,10 +41,11 @@
         <div class="span5">
           <h2 class="subtitulo-pagina">Informações </h2>
           <hr class="linhaContato">
-              <p><i class="fa fa-user"></i> Responsável: Heleno</p>
-              <p><i class="fa fa-phone"></i> Fixo: (99) 9999 - 9999</p>
-              <p><i class="fa fa-phone"></i> Celular Vivo: (99) 9999 - 9999</p>
-              <p><i class="fa fa-envelope"></i><a href=""> heleno@cyber.com</a></p>
+              <p><i class="fa fa-user"></i> Responsável: Heleno A. Gomes</p>
+              <p><i class="fa fa-phone"></i> Fixo: (11) 4708 - 3000</p>
+              <p><i class="fa fa-phone"></i> Celular Vivo: (11) 7251 - 0358</p>
+              <p><i class="fa fa-envelope"></i><a href="mailto:cybercafe24h@gmail.com"> cybercafe24h@gmail.com</a></p>
+              <p><i class="fa fa-envelope"></i><a href="mailto:treinamentos@ig.com.br"> treinamentos@ig.com.br</a></p>
         </div>
 
         <div class="span7 form-contato">

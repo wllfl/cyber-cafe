@@ -23,15 +23,15 @@
 					<img src="img/pag-seguro.png" class='img-pagseguro' alt="pagseguro">
 				</div>	
 				<div class="col-md-6 box-like">
-					<div class="fb-like-box" data-href="https://www.facebook.com/pages/WLL-Sistemas-Solu%C3%A7%C3%B5es-em-Tecnologia-da-Informa%C3%A7%C3%A3o/327263654076457?ref=bookmarks" data-width="500" data-height="200" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="true"></div>
+					<div class="fb-like-box" data-href="https://www.facebook.com/cybercafe24h?ref=aymt_homepage_panel" data-width="100%" data-height="200" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="true"></div>
 				</div>	
 			</div>
 			<br/><br/><br/><br/>
 			<div class="col-md-4 col-md-offset-4">
 		  		<span class="location">Rua Monteiro Lobato, 381 - Centro, </span>
 		  		<span class="location">Mairinque, SP | CEP: 18120-000</span>
-		  		<span class="location">Fone: (11) 4708-300</span>
-				<h4 class="desenvolvido text-center">&copy; 2015 - Desenvolvido por: <strong>Cyber Café 24h</strong></h4>
+		  		<span class="location">Fone: (11) 4708-3000</span>
+				<h4 class="desenvolvido text-center">&copy; 2010 - Desenvolvido por: <strong>CyberCafe24h</strong></h4>
 			</div>	  	
 		</div>
 	</div>

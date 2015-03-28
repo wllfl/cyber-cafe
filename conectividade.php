@@ -43,6 +43,14 @@
 
           <h3 class="subtitulo">TItulo</h3>
 
+           <!-- INICIO SERVIÇOS -->
+          <section id="conectivdade">
+              <div class='row-fluid'>
+                  <p>CyberCafe24H uma prestadora de serviços e conveniência digital:</p>
+                  <p>Oferecendo a seus clientes soluções & serviços em tecnologia da informação, rápidos confiáveis e convenientes.</p>
+              </div>
+          </section>
+          <!-- FIM SERVIÇOS -->
       </div>
     </div>    
 

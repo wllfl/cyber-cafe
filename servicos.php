@@ -37,17 +37,19 @@
               <div class='row-fluid'>
                 <div id="servicos">
                   <div class='col-md-5 col-servicos col-md-offset-1'>
-                    <p class='servico'><i class='fa fa-check'></i> Segunda via de certidões de nascimento e casamento</p>
-                    <p class='servico'><i class='fa fa-check'></i> Antencedentes criminais</p>
-                    <p class='servico'><i class='fa fa-check'></i> Elaboração de curriculum</p>
-                    <p class='servico'><i class='fa fa-check'></i> Emissão CPF / Renovação de CNH</p>         
-                    <p class='servico'><i class='fa fa-check'></i> Inscrição e Consutla da Nota Fiscal</p>  
+                    <p class='servico'><i class='fa fa-check'></i> Segunda via de Certidões de Nascimento e Casamento</p>
+                    <p class='servico'><i class='fa fa-check'></i> Antecedentes Criminais</p>
+                    <p class='servico'><i class='fa fa-check'></i> Elaboração de Curriculum</p>
+                    <p class='servico'><i class='fa fa-check'></i> Emissão de CPF / Renovação de CNH</p>         
+                    <p class='servico'><i class='fa fa-check'></i> Inscrição e Consulta da Nota Fiscal Paulista</p>  
+                    <p class='servico'><i class='fa fa-check'></i> Manutenção Preventiva de Notebooks</p>  
                   </div>
                   <div class='col-md-5 col-servicos'>
-                    <p class='servico'><i class='fa fa-check'></i> Impressões preto e branco</p>
-                    <p class='servico'><i class='fa fa-check'></i> Digitalização de documentos</p>
+                    <p class='servico'><i class='fa fa-check'></i> Impressões Preto e Branco / Color</p>
+                    <p class='servico'><i class='fa fa-check'></i> Digitalizações de Cocumentos</p>
                     <p class='servico'><i class='fa fa-check'></i> Emissão de Boletim de Ocorrência</p>
                     <p class='servico'><i class='fa fa-check'></i> Gravação de CDs e DVDs</p>    
+                    <p class='servico'><i class='fa fa-check'></i> Venda, Troca e Locação de Jogos PS3</p>    
                     <p class='servico'><i class='fa fa-check'></i> E outros ...</p>    
                   </div>
                 </div>

@@ -48,7 +48,7 @@ function initializeMap() {
     });
 
     var infowindow = new google.maps.InfoWindow();
-    infowindow.setContent('Cyber Café 24H');
+    infowindow.setContent('<b>CyberCafe24H - INTERNET</b>');
 
     google.maps.event.addListener(marker, 'click', function () {
         infowindow.open(map, marker);

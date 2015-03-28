@@ -28,15 +28,13 @@
 
           <div class='row-fluid'>
               <div class="col-md-4 box-titulo">
-                <h1 class='title-pagina'><i class='fa fa-gamepad fa-1x'></i> Jogos Online</h1>
+                <h1 class='title-pagina'><i class='fa fa-gamepad fa-2x'></i> Jogos Online</h1>
               </div>
           </div>
             <!-- INICIO CARROSSEL -->
            <section id="home-slider">
               <div id="slider" class="owl-carousel">
-                  <div class="item" style="background-image: url(img/slider/home/games.jpg);"></div>
-                  <div class="item" style="background-image: url(img/slider/home/games3.jpg);"></div>
-                  <div class="item" style="background-image: url(img/slider/home/cyber-games3.jpg);"></div>
+                  <div class="item" style="background-image: url(img/slider/games/jogos-online.jpg);"></div>
               </div><!--/.owl-carousel-->
             </section>
             <!-- FIM CARROSSEL -->
@@ -64,7 +62,7 @@
                         <a href="#noAction">PS3</a>
                     </li>
                     <li class="filter" data-filter="360">
-                        <a href="#noAction">X-Box360</a>
+                        <a href="#noAction">360</a>
                     </li>
                 </ul>
                 <!-- Start details for portfolio project 1 -->
@@ -83,13 +81,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Produto:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
                                     <div>
-                                        <span>Prazo de entrega:</span>July 2013</div>
+                                        <span>Ano de lançamento:</span>July 2013</div>
                                     <div>
-                                        <span>Tecnologias:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
                                 </div>
                                 <p>Desenvolvemos sites responsivos com layouts dinâmicos e com as mais recentes tecnologias do mercado, possuimos design próprio além de uma equipe completa para 
                                 disponibilizar a melhor solução em Site na região.</p>
@@ -496,7 +494,7 @@
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>FORZA HORIZON</h3>
-                                <p>Simulador de corrida</p>
+                                <p>Jogo de corrida Arcade</p>
                                 <div class="mask"></div>
                             </div>
                         </li>
@@ -507,7 +505,7 @@
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>GTA V</h3>
-                                <p>Jogo de aventura e distruição</p>
+                                <p>Jogo de mundo aberto</p>
                                 <div class="mask"></div>
                             </div>
                         </li>
@@ -540,7 +538,7 @@
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>KILLZONE</h3>
-                                <p>Jogo de aventura na selva</p>
+                                <p>Jogo de ficção científica</p>
                                 <div class="mask"></div>
                             </div>
                         </li>
@@ -551,7 +549,7 @@
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>PES 2015</h3>
-                                <p>Jogo de futebo</p>
+                                <p>Jogo de futebol</p>
                                 <div class="mask"></div>
                             </div>
                         </li> 
