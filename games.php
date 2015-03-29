@@ -69,7 +69,7 @@
                 <div id="single-project">
                     <div id="slidingDiv" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/N3sp3Qes94I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/N3sp3Qes94I?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -83,7 +83,7 @@
                                     <div>
                                         <span>Desenvolvedora:</span>Some Client Name</div>
                                     <div>
-                                        <span>Ano de lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>July 2013</div>
                                     <div>
                                         <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
                                     <div>
@@ -110,13 +110,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Lançamento:</span>July 2013</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
                                 </div>
                                 <p>Life is a song - sing it. Life is a game - play it. Life is a challenge - meet it. Life is a dream - realize it. Life is a sacrifice - offer it. Life is love - enjoy it.</p>
                             </div>
@@ -138,13 +138,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Lançamento:</span>July 2013</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
                                 </div>
                                 <p>How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.</p>
                             </div>
@@ -153,6 +153,34 @@
                     <!-- End details for portfolio project 3 -->
                     <!-- Start details for portfolio project 4 -->
                     <div id="slidingDiv3" class="toggleDiv row-fluid single-project">
+                        <div class="span6">
+                            <img src="img/thumbs-games/Portfolio03.png" alt="project 3">
+                        </div>
+                        <div class="span6">
+                            <div class="project-description">
+                                <div class="project-title clearfix">
+                                    <h3>CALL OF DUTY ADVANCE WARFARE</h3>
+                                    <span class="show_hide close">
+                                        <i class="icon-cancel"></i>
+                                    </span>
+                                </div>
+                                <div class="project-info">
+                                    <div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                    <div>
+                                        <span>Lançamento:</span>July 2013</div>
+                                    <div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                    <div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                </div>
+                                <p>How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End details for portfolio project 4 -->                    
+                    <!-- Start details for portfolio project 5 -->
+                    <div id="slidingDiv4" class="toggleDiv row-fluid single-project">
                         <div class="span6">
                             <img src="img/thumbs-games/Portfolio04.png" alt="project 4">
                         </div>
@@ -166,21 +194,21 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Lançamento:</span>July 2013</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
                                 </div>
                                 <p>Life's but a walking shadow, a poor player, that struts and frets his hour upon the stage, and then is heard no more; it is a tale told by an idiot, full of sound and fury, signifying nothing.</p>
                             </div>
                         </div>
                     </div>
-                    <!-- End details for portfolio project 4 -->
-                    <!-- Start details for portfolio project 5 -->
-                    <div id="slidingDiv4" class="toggleDiv row-fluid single-project">
+                    <!-- End details for portfolio project 5 -->
+                    <!-- Start details for portfolio project 6 -->
+                    <div id="slidingDiv5" class="toggleDiv row-fluid single-project">
                         <div class="span6">
                             <img src="img/thumbs-games/Portfolio05.png" alt="project 5">
                         </div>
@@ -194,21 +222,21 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Lançamento:</span>July 2013</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
                                 </div>
                                 <p>We need to give each other the space to grow, to be ourselves, to exercise our diversity. We need to give each other space so that we may both give and receive such beautiful things as ideas, openness, dignity, joy, healing, and inclusion.</p>
                             </div>
                         </div>
                     </div>
-                    <!-- End details for portfolio project 5 -->
-                    <!-- Start details for portfolio project 6 -->
-                    <div id="slidingDiv5" class="toggleDiv row-fluid single-project">
+                    <!-- End details for portfolio project 6 -->
+                    <!-- Start details for portfolio project 7 -->
+                    <div id="slidingDiv6" class="toggleDiv row-fluid single-project">
                         <div class="span6">
                             <img src="img/thumbs-games/Portfolio06.png" alt="project 6">
                         </div>
@@ -222,21 +250,49 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Lançamento:</span>July 2013</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
                                 </div>
                                 <p>I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.</p>
                             </div>
                         </div>
                     </div>
-                    <!-- End details for portfolio project 6 -->
-                    <!-- Start details for portfolio project 7 -->
-                    <div id="slidingDiv6" class="toggleDiv row-fluid single-project">
+                    <!-- End details for portfolio project 7 -->
+                    <!-- Start details for portfolio project 8 -->
+                    <div id="slidingDiv7" class="toggleDiv row-fluid single-project">
+                        <div class="span6">
+                            <img src="img/thumbs-games/Portfolio06.png" alt="project 6">
+                        </div>
+                        <div class="span6">
+                            <div class="project-description">
+                                <div class="project-title clearfix">
+                                    <h3>GRAN TURISMO 6</h3>
+                                    <span class="show_hide close">
+                                        <i class="icon-cancel"></i>
+                                    </span>
+                                </div>
+                                <div class="project-info">
+                                    <div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                    <div>
+                                        <span>Lançamento:</span>July 2013</div>
+                                    <div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                    <div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                </div>
+                                <p>I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End details for portfolio project 8 -->
+                    <!-- Start details for portfolio project 9 -->
+                    <div id="slidingDiv8" class="toggleDiv row-fluid single-project">
                         <div class="span6">
                             <img src="img/thumbs-games/Portfolio07.png" alt="project 7">
                         </div>
@@ -250,21 +306,21 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Lançamento:</span>July 2013</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
                                 </div>
                                 <p>Always continue the climb. It is possible for you to do whatever you choose, if you first get to know who you are and are willing to work with a power that is greater than ourselves to do it.</p>
                             </div>
                         </div>
                     </div>
-                    <!-- End details for portfolio project 7 -->
-                    <!-- Start details for portfolio project 8 -->
-                    <div id="slidingDiv7" class="toggleDiv row-fluid single-project">
+                    <!-- End details for portfolio project 9 -->
+                    <!-- Start details for portfolio project 10 -->
+                    <div id="slidingDiv9" class="toggleDiv row-fluid single-project">
                         <div class="span6">
                             <img src="img/thumbs-games/Portfolio08.png" alt="project 8">
                         </div>
@@ -278,21 +334,21 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Lançamento:</span>July 2013</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
                                 </div>
                                 <p>What if you gave someone a gift, and they neglected to thank you for it - would you be likely to give them another? Life is the same way. In order to attract more of the blessings that life has to offer, you must truly appreciate what you already have.</p>
                             </div>
                         </div>
                     </div>
-                    <!-- End details for portfolio project 8 -->
-                    <!-- Start details for portfolio project 9 -->
-                    <div id="slidingDiv8" class="toggleDiv row-fluid single-project">
+                    <!-- End details for portfolio project 10 -->
+                    <!-- Start details for portfolio project 11 -->
+                    <div id="slidingDiv10" class="toggleDiv row-fluid single-project">
                         <div class="span6">
                             <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
                         </div>
@@ -306,69 +362,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Lançamento:</span>July 2013</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
-                                </div>
-                                <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End details for portfolio project 9 -->
-                    <!-- Start details for portfolio project 10 -->
-                    <div id="slidingDiv9" class="toggleDiv row-fluid single-project">
-                        <div class="span6">
-                            <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
-                        </div>
-                        <div class="span6">
-                            <div class="project-description">
-                                <div class="project-title clearfix">
-                                    <h3>KILLZONE</h3>
-                                    <span class="show_hide close">
-                                        <i class="icon-cancel"></i>
-                                    </span>
-                                </div>
-                                <div class="project-info">
-                                    <div>
-                                        <span>Client</span>Some Client Name</div>
-                                    <div>
-                                        <span>Date</span>July 2013</div>
-                                    <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
-                                    <div>
-                                        <span>Link</span>http://examplecomp.com</div>
-                                </div>
-                                <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End details for portfolio project 10 -->
-                    <!-- Start details for portfolio project 11 -->
-                    <div id="slidingDiv10" class="toggleDiv row-fluid single-project">
-                        <div class="span6">
-                            <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
-                        </div>
-                        <div class="span6">
-                            <div class="project-description">
-                                <div class="project-title clearfix">
-                                    <h3>PES 2015</h3>
-                                    <span class="show_hide close">
-                                        <i class="icon-cancel"></i>
-                                    </span>
-                                </div>
-                                <div class="project-info">
-                                    <div>
-                                        <span>Client</span>Some Client Name</div>
-                                    <div>
-                                        <span>Date</span>July 2013</div>
-                                    <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
-                                    <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
                                 </div>
                                 <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
                             </div>
@@ -383,6 +383,62 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
+                                    <h3>KILLZONE</h3>
+                                    <span class="show_hide close">
+                                        <i class="icon-cancel"></i>
+                                    </span>
+                                </div>
+                                <div class="project-info">
+                                    <div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                    <div>
+                                        <span>Lançamento:</span>July 2013</div>
+                                    <div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                    <div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                </div>
+                                <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End details for portfolio project 12 -->
+                    <!-- Start details for portfolio project 13 -->
+                    <div id="slidingDiv12" class="toggleDiv row-fluid single-project">
+                        <div class="span6">
+                            <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
+                        </div>
+                        <div class="span6">
+                            <div class="project-description">
+                                <div class="project-title clearfix">
+                                    <h3>PES 2015</h3>
+                                    <span class="show_hide close">
+                                        <i class="icon-cancel"></i>
+                                    </span>
+                                </div>
+                                <div class="project-info">
+                                    <div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                    <div>
+                                        <span>Lançamento:</span>July 2013</div>
+                                    <div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                    <div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                </div>
+                                <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End details for portfolio project 13 -->
+                    <!-- Start details for portfolio project 14 -->
+                    <div id="slidingDiv13" class="toggleDiv row-fluid single-project">
+                        <div class="span6">
+                            <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
+                        </div>
+                        <div class="span6">
+                            <div class="project-description">
+                                <div class="project-title clearfix">
                                     <h3>THE LAST OF US</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
@@ -390,21 +446,21 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Lançamento:</span>July 2013</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
                                 </div>
                                 <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
                             </div>
                         </div>
                     </div>
-                    <!-- End details for portfolio project 12 -->   
-                    <!-- Start details for portfolio project 12 -->
-                    <div id="slidingDiv12" class="toggleDiv row-fluid single-project">
+                    <!-- End details for portfolio project 14 -->   
+                    <!-- Start details for portfolio project 15 -->
+                    <div id="slidingDiv14" class="toggleDiv row-fluid single-project">
                         <div class="span6">
                             <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
                         </div>
@@ -418,23 +474,23 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Some Client Name</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Lançamento:</span>July 2013</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
                                 </div>
                                 <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
                             </div>
                         </div>
                     </div>
-                    <!-- End details for portfolio project 12 -->                                         
+                    <!-- End details for portfolio project 15 -->                                         
                     <ul id="portfolio-grid" class="thumbnails row">
-                        <li class="span4 mix ps4">
+                        <li class="span4 mix 360">
                             <div class="thumbnail">
-                                <img src="img/thumbs-games/assassins-creed-rogue.jpg" alt="Assasins Creed">
+                                <img src="img/thumbs-games/assassin-creed-black-flag.jpg" alt="Assasins Creed Black Flag">
                                 <a href="#single-project" class="more show_hide" rel="#slidingDiv">
                                     <i class="icon-plus"></i>
                                 </a>
@@ -443,7 +499,7 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix ps3">
+                        <li class="span4 mix ps4">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/batlefield-4.jpg" alt="Batlefild 4">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv1">
@@ -454,7 +510,7 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix 360">
+                        <li class="span4 mix ps4">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/call-of-duty-ghost.jpg" alt="Call Of Duty Ghost">
                                 <a href="#single-project" class="more show_hide" rel="#slidingDiv2">
@@ -467,8 +523,19 @@
                         </li>
                         <li class="span4 mix ps3">
                             <div class="thumbnail">
+                                <img src="img/thumbs-games/call-of-duty.jpg" alt="Call Of Duty Advanced Warfara">
+                                <a href="#single-project" class="more show_hide" rel="#slidingDiv3">
+                                    <i class="icon-plus"></i>
+                                </a>
+                                <h3>ADVANCED WARFARE</h3>
+                                <p>Jogo de guerra</p> 
+                                <div class="mask"></div>
+                            </div>
+                        </li>
+                        <li class="span4 mix 360 ps4">
+                            <div class="thumbnail">
                                 <img src="img/thumbs-games/fifa-14.jpg" alt="FIFA 14">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv3">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv4">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>FIFA 14</h3>
@@ -479,7 +546,7 @@
                         <li class="span4 mix 360">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/fifa-15.jpg" alt="FIFA 15">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv4">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv5">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>FIFA 15</h3>
@@ -487,10 +554,10 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix ps3">
+                        <li class="span4 mix 360">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/forza-horizon-2.jpg" alt="Forza horizon">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv5">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv6">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>FORZA HORIZON</h3>
@@ -498,10 +565,21 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix 360">
+                        <li class="span4 mix ps3">
+                            <div class="thumbnail">
+                                <img src="img/thumbs-games/granturismo-6.jpg" alt="Gran Turismo 6">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv7">
+                                    <i class="icon-plus"></i>
+                                </a>
+                                <h3>GRAN TURISMO 6</h3>
+                                <p>Jogo de corrida Arcade</p>
+                                <div class="mask"></div>
+                            </div>
+                        </li>
+                        <li class="span4 mix 360 ps4 ps3">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/gta.jpg"alt="GTA V">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv6">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv8">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>GTA V</h3>
@@ -509,10 +587,10 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix ps4">
+                        <li class="span4 mix 360">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/halo-4.jpg" alt="HALO 4" />
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv7">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv9">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>HALO 4</h3>
@@ -523,7 +601,7 @@
                         <li class="span4 mix 360">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/injustice.jpg" alt="Injustice">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv8">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv10">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>Injustice</h3>
@@ -531,10 +609,10 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix 360">
+                        <li class="span4 mix ps4">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/killzone.jpg" alt="killzone">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv9">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv11">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>KILLZONE</h3>
@@ -545,7 +623,7 @@
                         <li class="span4 mix 360">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/pes-2015.jpg" alt="PES 15">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv10">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv12">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>PES 2015</h3>
@@ -553,10 +631,10 @@
                                 <div class="mask"></div>
                             </div>
                         </li> 
-                        <li class="span4 mix 360">
+                        <li class="span4 mix ps3">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/the-last-of-us.jpg" alt="killzone">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv11">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv13">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>THE LAST OF US</h3>
@@ -564,10 +642,10 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix 360">
+                        <li class="span4 mix ps4">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/watch-dogs.jpg" alt="Watch Dogs">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv12">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv14">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>WATCH DOGS</h3>
@@ -597,7 +675,7 @@
     <script type="text/javascript" src="js/owl.carousel.min.js"></script>
     <script type="text/javascript">
     jQuery(document).ready(function ($) {
-
+        
       //Initial mixitup, used for animated filtering portgolio.
       $('#portfolio-grid').mixitup({
           'onMixStart': function (config) {
