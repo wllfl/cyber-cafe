@@ -3,12 +3,12 @@
 		<div class="row-fluid">
 			<div class="col-md-7 col-md-offset-3">
 		  		<span class="text-center">
-		  			<a href='' class='link-rodape'>Principal</a> |
-		  			<a href='' class='link-rodape'>Jogos</a> |
-		  			<a href='' class='link-rodape'>Conectividade</a> |
-		  			<a href='' class='link-rodape'>Serviços</a> |
-		  			<a href='' class='link-rodape'>Desenvolvimento</a> |
-		  			<a href='' class='link-rodape'>Contato</a>
+		  			<a href='principal' class='link-rodape'>Principal</a> |
+		  			<a href='jogos-online' class='link-rodape'>Jogos</a> |
+		  			<a href='conectividade' class='link-rodape'>Conectividade</a> |
+		  			<a href='servicos' class='link-rodape'>Serviços</a> |
+		  			<a href='desenvolvimento' class='link-rodape'>Desenvolvimento</a> |
+		  			<a href='contato' class='link-rodape'>Contato</a>
 		  		</span>
 			</div>
 			<br/><br/>
@@ -18,12 +18,12 @@
 			</div>
 			<br/><br/><br/><br/>
 			<div class="row-fluid">
-				<div class="col-md-6 box-pag-seguro">
-					<span class="link-rodape text-center">Trabalhamos com PagSeguro</span>
-					<img src="img/pag-seguro.png" class='img-pagseguro' alt="pagseguro">
+				<div class="span7 box-pag-seguro">
+					<!-- <span class="link-rodape text-center">Trabalhamos com PagSeguro</span> -->
+					<img src="img/pag-seguro.jpg" class='img-pagseguro' alt="pagseguro">
 				</div>	
-				<div class="col-md-6 box-like">
-					<div class="fb-like-box" data-href="https://www.facebook.com/cybercafe24h?ref=aymt_homepage_panel" data-width="100%" data-height="200" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="true"></div>
+				<div class="span5 col-md-offset-1 box-like">					
+					<div class="fb-page" data-href="https://www.facebook.com/cybercafe24h" data-width="500" data-height="270" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div>
 				</div>	
 			</div>
 			<br/><br/><br/><br/>
@@ -40,7 +40,8 @@
 	  var js, fjs = d.getElementsByTagName(s)[0];
 	  if (d.getElementById(id)) return;
 	  js = d.createElement(s); js.id = id;
-	  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.0";
+	  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&appId=666605746788127&version=v2.3";
 	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>
+	}(document, 'script', 'facebook-jssdk'));
+	</script>
 </div>

@@ -31,13 +31,16 @@
                 <h1 class='title-pagina'><i class='fa fa-gamepad fa-2x'></i> Jogos Online</h1>
               </div>
           </div>
-            <!-- INICIO CARROSSEL -->
-           <section id="home-slider">
-              <div id="slider" class="owl-carousel">
-                  <div class="item" style="background-image: url(img/slider/games/jogos-online.jpg);"></div>
-              </div><!--/.owl-carousel-->
-            </section>
-            <!-- FIM CARROSSEL -->
+          <!-- INICIO CARROSSEL -->
+          <section id="home-slider">
+            <div id="slider" class="owl-carousel">
+                <div class="itemGames" style="background-image: url(img/slider/games/banner.jpg);"></div>
+                <div class="itemGames" style="background-image: url(img/slider/games/ambiente-unico.jpg);"></div>
+                <div class="itemGames" style="background-image: url(img/slider/games/jogos-ambiente.jpg);"></div>
+            </div><!--/.owl-carousel-->
+          </section>
+          <!-- FIM CARROSSEL -->
+
             
            <!-- INICIO SERVIÇOS -->
           <section id="img-servico">
@@ -47,10 +50,7 @@
             <div class="section secondary-section " id="portfolio">
             <div class="triangle"></div>
             <div class="container">
-                <div class=" title">
-                    <h1>Have You Seen our Works?</h1>
-                    <p>Duis mollis placerat quam, eget laoreet tellus tempor eu. Quisque dapibus in purus in dignissim.</p>
-                </div>
+                <br>
                 <ul class="nav nav-pills">
                     <li class="filter" data-filter="all">
                         <a href="#noAction">Todos</a>
@@ -510,7 +510,7 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix ps4">
+                        <li class="span4 mix ps3 360 ps4">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/call-of-duty-ghost.jpg" alt="Call Of Duty Ghost">
                                 <a href="#single-project" class="more show_hide" rel="#slidingDiv2">
@@ -521,7 +521,7 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix ps3">
+                        <li class="span4 mix ps3 360">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/call-of-duty.jpg" alt="Call Of Duty Advanced Warfara">
                                 <a href="#single-project" class="more show_hide" rel="#slidingDiv3">
@@ -532,7 +532,7 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix 360 ps4">
+                        <li class="span4 mix ps3 360 ps4">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/fifa-14.jpg" alt="FIFA 14">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv4">
@@ -543,7 +543,7 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix 360">
+                        <li class="span4 mix 360 ps3">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/fifa-15.jpg" alt="FIFA 15">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv5">
@@ -598,7 +598,7 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix 360">
+                        <li class="span4 mix 360 ps3">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/injustice.jpg" alt="Injustice">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv10">
@@ -620,7 +620,7 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix 360">
+                        <li class="span4 mix 360 ps3">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/pes-2015.jpg" alt="PES 15">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv12">
@@ -642,7 +642,7 @@
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix ps4">
+                        <li class="span4 mix ps4 ps3">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/watch-dogs.jpg" alt="Watch Dogs">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv14">

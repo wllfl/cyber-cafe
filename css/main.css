@@ -90,7 +90,13 @@ h2.subtitulo-pagina{
     height: 100%;
     width: 100%;
 }
-
+.itemGames{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
 #home-slider {
     overflow: hidden;
 }

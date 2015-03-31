@@ -163,15 +163,8 @@ h1.logo {
 }
 
 .box-like{
-   height: auto;
-  width: auto;
-  background: #fff;
   padding: 0;
-  float: right;
-}
-
-.box-pag-seguro{
-    margin-top: 45px;
+  
 }
 
 .box-icon{
@@ -181,5 +174,5 @@ h1.logo {
 .img-pagseguro{
     background-color: #fff;
     display: block;
-    padding: 8px;
+    height: 224px;
 }
