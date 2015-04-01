@@ -27,7 +27,7 @@
 
         <div class='row-fluid'>
               <div class="col-md-6 box-titulo">
-                <h1 class='title-pagina'><i class='fa fa-at fa-1x'></i> Conectivida com a Internet</h1>
+                <h1 class='title-pagina'><i class='fa fa-at fa-2x'></i> Conectivida com a Internet</h1>
             </div>
         </div>
 

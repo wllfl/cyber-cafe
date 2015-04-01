@@ -27,7 +27,7 @@
 
             <div class='row-fluid'>
                 <div class="col-sm-7 box-titulo">
-                   <h1 class='title-pagina'><i class='fa fa-desktop fa-1x'></i> Desenvolvimento de Sistemas e Sites</h1>        
+                   <h1 class='title-pagina'><i class='fa fa-desktop fa-2x'></i> Desenvolvimento de Sistemas e Sites</h1>        
                 </div>      
             </div>
             

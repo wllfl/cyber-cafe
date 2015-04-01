@@ -35,6 +35,8 @@ p {
     background-color: rgba(0, 158, 227, 0.8);
     padding: 8px 0;
     margin-bottom: 20px;
+    display: inline-block;
+    width: auto;
 }
 
 .title-pagina{

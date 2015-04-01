@@ -26,7 +26,7 @@
 
           <div class='row-fluid'>
               <div class="col-md-4 box-titulo">
-                <h1 class='title-pagina'><i class='fa fa-cogs fa-1x'></i> Nossos Serviços</h1>
+                <h1 class='title-pagina'><i class='fa fa-cogs fa-2x'></i> Nossos Serviços</h1>
               </div>
           </div>
         

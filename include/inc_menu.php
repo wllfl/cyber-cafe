@@ -7,7 +7,7 @@
             
             <!-- Menu Responsivo -->
             <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                <i class="icon-menu iconeMenuMobile"></i>
+                <i class="icon-menu iconeMenuMobile fa-1x"></i>
             </button>
             <!--Fim Menu Responsivo -->
 

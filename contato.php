@@ -29,7 +29,7 @@
 
            <div class='row-fluid'>
               <div class="col-md-4 box-titulo">
-                <h1 class='title-pagina'><i class='fa fa-envelope fa-1x'></i> Entre em Contato</h1>
+                <h1 class='title-pagina'><i class='fa fa-envelope fa-2x'></i> Entre em Contato</h1>
               </div>
           </div>
       

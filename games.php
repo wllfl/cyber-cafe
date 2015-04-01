@@ -69,7 +69,7 @@
                 <div id="single-project">
                     <div id="slidingDiv" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/N3sp3Qes94I?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/N3sp3Qes94I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -98,7 +98,7 @@
                     <!-- Start details for portfolio project 2 -->
                     <div id="slidingDiv1" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio02.png" alt="project 2">
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/_i5_OGoeDhA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -110,13 +110,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>EA Digital Illusions CE</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>29 de outubro de 2013</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Jogo de tiro primeira-pessoa</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>16 +</div>
                                 </div>
                                 <p>Life is a song - sing it. Life is a game - play it. Life is a challenge - meet it. Life is a dream - realize it. Life is a sacrifice - offer it. Life is love - enjoy it.</p>
                             </div>
@@ -126,7 +126,7 @@
                     <!-- Start details for portfolio project 3 -->
                     <div id="slidingDiv2" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio03.png" alt="project 3">
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/rd76uJPNB5s?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -138,13 +138,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Infinity Ward, Treyarch, Raven Software</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>5 de novembro de 2013</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Tiro em primeira pessoa</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>18 +</div>
                                 </div>
                                 <p>How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.</p>
                             </div>
@@ -154,7 +154,7 @@
                     <!-- Start details for portfolio project 4 -->
                     <div id="slidingDiv3" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio03.png" alt="project 3">
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/YeMwByosHaM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -166,13 +166,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Sledgehammer Games, Raven Software</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>4 de novembro de 2014</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Tiro em primeira pessoa</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>17 +</div>
                                 </div>
                                 <p>How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.</p>
                             </div>
@@ -182,7 +182,7 @@
                     <!-- Start details for portfolio project 5 -->
                     <div id="slidingDiv4" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio04.png" alt="project 4">
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/N51pmP4fSL8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -194,13 +194,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>EA Canada</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>23 de setembro de 2013</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Futebol</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>Livre</div>
                                 </div>
                                 <p>Life's but a walking shadow, a poor player, that struts and frets his hour upon the stage, and then is heard no more; it is a tale told by an idiot, full of sound and fury, signifying nothing.</p>
                             </div>
@@ -210,7 +210,7 @@
                     <!-- Start details for portfolio project 6 -->
                     <div id="slidingDiv5" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio05.png" alt="project 5">
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/vZuen-McoVk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -222,13 +222,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>EA Canada</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>23 de setembro de 2013</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Futebol</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>Livre</div>
                                 </div>
                                 <p>We need to give each other the space to grow, to be ourselves, to exercise our diversity. We need to give each other space so that we may both give and receive such beautiful things as ideas, openness, dignity, joy, healing, and inclusion.</p>
                             </div>
@@ -238,7 +238,7 @@
                     <!-- Start details for portfolio project 7 -->
                     <div id="slidingDiv6" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio06.png" alt="project 6">
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/6IYOXntEFcE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -250,13 +250,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Playground Games</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>30 de setembro de 2014</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Corrida</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>6 +</div>
                                 </div>
                                 <p>I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.</p>
                             </div>
@@ -266,7 +266,7 @@
                     <!-- Start details for portfolio project 8 -->
                     <div id="slidingDiv7" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio06.png" alt="project 6">
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/k-mvG-NoLzU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -278,13 +278,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Polyphony Digital</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>5 de dezembro de 2013</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Simulador de corridas</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>6 +</div>
                                 </div>
                                 <p>I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.</p>
                             </div>
@@ -294,7 +294,7 @@
                     <!-- Start details for portfolio project 9 -->
                     <div id="slidingDiv8" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio07.png" alt="project 7">
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/fUfyZvkcFas?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -306,13 +306,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Rockstar North, Rockstar Leeds</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>17 de setembro de 2013</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Ação-aventura</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>17 +</div>
                                 </div>
                                 <p>Always continue the climb. It is possible for you to do whatever you choose, if you first get to know who you are and are willing to work with a power that is greater than ourselves to do it.</p>
                             </div>
@@ -322,7 +322,7 @@
                     <!-- Start details for portfolio project 10 -->
                     <div id="slidingDiv9" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio08.png" alt="project 8">
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/PC-RezIwVDM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -334,13 +334,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>343 Industries</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>6 de novembro de 2012</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Tiro em primeira pessoa</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>14 +</div>
                                 </div>
                                 <p>What if you gave someone a gift, and they neglected to thank you for it - would you be likely to give them another? Life is the same way. In order to attract more of the blessings that life has to offer, you must truly appreciate what you already have.</p>
                             </div>
@@ -350,7 +350,7 @@
                     <!-- Start details for portfolio project 11 -->
                     <div id="slidingDiv10" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/CvxCUY0YBW4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -362,13 +362,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>NetherRealm Studios</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>3 de abril de 2013</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Luta</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>13 +</div>
                                 </div>
                                 <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
                             </div>
@@ -378,7 +378,7 @@
                     <!-- Start details for portfolio project 12 -->
                     <div id="slidingDiv11" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/z37A4BQ8CPU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -390,13 +390,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Guerrilla Games</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>2 de novembro de 2004</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Tiro em primeira pessoa</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>16 +</div>
                                 </div>
                                 <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
                             </div>
@@ -406,7 +406,7 @@
                     <!-- Start details for portfolio project 13 -->
                     <div id="slidingDiv12" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/LDL4-mSoHe4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -418,13 +418,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>PES Productions</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>11 de novembro de 2014</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Futebol</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>Livre</div>
                                 </div>
                                 <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
                             </div>
@@ -434,7 +434,7 @@
                     <!-- Start details for portfolio project 14 -->
                     <div id="slidingDiv13" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/kE7li_u1nmg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -446,13 +446,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Naughty Dog</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>14 de junho de 2013</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Sobrevivência</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>16 +</div>
                                 </div>
                                 <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
                             </div>
@@ -462,7 +462,7 @@
                     <!-- Start details for portfolio project 15 -->
                     <div id="slidingDiv14" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-games/Portfolio09.png" alt="project 9">
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/xdxLiZCtj6U?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -474,13 +474,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Ubisoft Paris</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>27 de maio de 2014</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Ação-aventura</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>18 +</div>
                                 </div>
                                 <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
                             </div>
@@ -488,7 +488,7 @@
                     </div>
                     <!-- End details for portfolio project 15 -->                                         
                     <ul id="portfolio-grid" class="thumbnails row">
-                        <li class="span4 mix 360">
+                        <li class="span4 mix 360 ps3">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/assassin-creed-black-flag.jpg" alt="Assasins Creed Black Flag">
                                 <a href="#single-project" class="more show_hide" rel="#slidingDiv">
