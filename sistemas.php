@@ -61,8 +61,8 @@
                 <div id="single-project">
                     <div id="slidingDiv" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/Portfolio01.png" alt="project 1" />
-                        </div>
+                            <img src="img/thumbs-desenvolvimento/site-estatico.jpg" height="356" width="570" alt="project 1" />
+                        </div>  
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
@@ -90,12 +90,12 @@
                     <!-- Start details for portfolio project 2 -->
                     <div id="slidingDiv1" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/Portfolio02.png" alt="project 2">
+                            <img src="img/thumbs-desenvolvimento/controle-estoque.jpg" height="356" width="570" alt="project 2">
                         </div>
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Webste for Some Client</h3>
+                                    <h3>Controle de Estoque</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -118,12 +118,12 @@
                     <!-- Start details for portfolio project 3 -->
                     <div id="slidingDiv2" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/Portfolio03.png" alt="project 3">
+                            <img src="img/thumbs-desenvolvimento/consultoria-ti.jpg" height="356" width="570" alt="project 3">
                         </div>
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Webste for Some Client</h3>
+                                    <h3>Consultorias em Banco de Dados</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -146,12 +146,12 @@
                     <!-- Start details for portfolio project 4 -->
                     <div id="slidingDiv3" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/Portfolio04.png" alt="project 4">
+                            <img src="img/thumbs-desenvolvimento/site-dinamico.jpg" height="356" width="570" alt="project 4">
                         </div>
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Project for Some Client</h3>
+                                    <h3>Sites Dinâmicos</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -174,12 +174,12 @@
                     <!-- Start details for portfolio project 5 -->
                     <div id="slidingDiv4" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/Portfolio05.png" alt="project 5">
+                            <img src="img/thumbs-desenvolvimento/aplicacoes-web.jpg" height="356" width="570" alt="project 5">
                         </div>
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Webste for Some Client</h3>
+                                    <h3>Controle Financeito WEB</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -202,12 +202,12 @@
                     <!-- Start details for portfolio project 6 -->
                     <div id="slidingDiv5" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/Portfolio06.png" alt="project 6">
+                            <img src="img/thumbs-desenvolvimento/integracao-apis.jpg" height="356" width="570" alt="project 6">
                         </div>
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Webste for Some Client</h3>
+                                    <h3>Integrações com APIs</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -230,12 +230,12 @@
                     <!-- Start details for portfolio project 7 -->
                     <div id="slidingDiv6" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/Portfolio07.png" alt="project 7">
+                            <img src="img/thumbs-desenvolvimento/aplicacoes-web.jpg" height="356" width="570" alt="project 7">
                         </div>
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Webste for Some Client</h3>
+                                    <h3>Aplicações WEB</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -258,12 +258,12 @@
                     <!-- Start details for portfolio project 8 -->
                     <div id="slidingDiv7" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/Portfolio08.png" alt="project 8">
+                            <img src="img/thumbs-desenvolvimento/pdv.jpg" height="356" width="570" alt="project 8">
                         </div>
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Webste for Some Client</h3>
+                                    <h3>Ponto de Venda</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -286,12 +286,12 @@
                     <!-- Start details for portfolio project 9 -->
                     <div id="slidingDiv8" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/Portfolio09.png" alt="project 9">
+                            <img src="img/thumbs-desenvolvimento/cursos-programacao.jpg" height="356" width="570" alt="project 9">
                         </div>
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Webste for Some Client</h3>
+                                    <h3>Cursos de Programação</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -314,7 +314,7 @@
                     <ul id="portfolio-grid" class="thumbnails row">
                         <li class="span4 mix web">
                             <div class="thumbnail">
-                                <img src="img/thumbs-desenvolvimento/Portfolio01.png" alt="project 1">
+                                <img src="img/thumbs-desenvolvimento/tumb-site-estatico.jpg" height="331" width="370" alt="project 1">
                                 <a href="#single-project" class="more show_hide" rel="#slidingDiv">
                                     <i class="icon-plus"></i>
                                 </a>
@@ -325,7 +325,7 @@
                         </li>
                         <li class="span4 mix photo">
                             <div class="thumbnail">
-                                <img src="img/thumbs-desenvolvimento/Portfolio02.png" alt="project 2">
+                                <img src="img/thumbs-desenvolvimento/tumb-controle-estoque.jpg" height="331" width="370" alt="project 2">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv1">
                                     <i class="icon-plus"></i>
                                 </a>
@@ -336,7 +336,7 @@
                         </li>
                         <li class="span4 mix identity">
                             <div class="thumbnail">
-                                <img src="img/thumbs-desenvolvimento/Portfolio03.png" alt="project 3">
+                                <img src="img/thumbs-desenvolvimento/tumb-consultoria-ti.jpg" height="331" width="370" alt="project 3">
                                 <a href="#single-project" class="more show_hide" rel="#slidingDiv2">
                                     <i class="icon-plus"></i>
                                 </a>
@@ -347,7 +347,7 @@
                         </li>
                         <li class="span4 mix web">
                             <div class="thumbnail">
-                                <img src="img/thumbs-desenvolvimento/Portfolio04.png" alt="project 4">
+                                <img src="img/thumbs-desenvolvimento/tumb-site-dinamico.jpg" height="331" width="370" alt="project 4">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv3">
                                     <i class="icon-plus"></i>
                                 </a>
@@ -358,7 +358,7 @@
                         </li>
                         <li class="span4 mix photo">
                             <div class="thumbnail">
-                                <img src="img/thumbs-desenvolvimento/Portfolio05.png" alt="project 5">
+                                <img src="img/thumbs-desenvolvimento/tumb-aplicacoes-web.jpg" height="331" width="370" alt="project 5">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv4">
                                     <i class="icon-plus"></i>
                                 </a>
@@ -369,7 +369,7 @@
                         </li>
                         <li class="span4 mix identity">
                             <div class="thumbnail">
-                                <img src="img/thumbs-desenvolvimento/Portfolio06.png" alt="project 6">
+                                <img src="img/thumbs-desenvolvimento/tumb-integracoes-apis.jpg" height="331" width="370" alt="project 6">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv5">
                                     <i class="icon-plus"></i>
                                 </a>
@@ -380,7 +380,7 @@
                         </li>
                         <li class="span4 mix web">
                             <div class="thumbnail">
-                                <img src="img/thumbs-desenvolvimento/Portfolio07.png" alt="project 7" />
+                                <img src="img/thumbs-desenvolvimento/tumb-aplicacoes-web.jpg" height="331" width="370" alt="project 7" />
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv6">
                                     <i class="icon-plus"></i>
                                 </a>
@@ -391,7 +391,7 @@
                         </li>
                         <li class="span4 mix photo">
                             <div class="thumbnail">
-                                <img src="img/thumbs-desenvolvimento/Portfolio08.png" alt="project 8">
+                                <img src="img/thumbs-desenvolvimento/tumb-pdv.jpg" height="331" width="370" alt="project 8">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv7">
                                     <i class="icon-plus"></i>
                                 </a>
@@ -402,7 +402,7 @@
                         </li>
                         <li class="span4 mix identity">
                             <div class="thumbnail">
-                                <img src="img/thumbs-desenvolvimento/Portfolio09.png" alt="project 9">
+                                <img src="img/thumbs-desenvolvimento/tumb-cursos-programacao.jpg" height="331" width="370" alt="project 9">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv8">
                                     <i class="icon-plus"></i>
                                 </a>
