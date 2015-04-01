@@ -7,6 +7,7 @@ $(document).ready(function() {
     $(window).resize(function(){'use strict',
         $('.item, .slide-caption').css('height',slideHeight);
     });
+    
 
 	/* Carrossel da Home*/
 	$("#slider").owlCarousel({
@@ -21,7 +22,7 @@ $(document).ready(function() {
 			"<i class='fa fa-angle-left'></i>",
 			"<i class='fa fa-angle-right'></i>"
 			],
-	    autoPlay: false,
+	    autoPlay: true,
 	    responsive: true
     });
 });

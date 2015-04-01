@@ -3,14 +3,8 @@
     background: #181A1C;
     margin-bottom:0;
     min-height:70px;
-    padding: 10px 0;
+    padding: 5px 0;
     font-weight: bold;
-}
-
-.navbar-fixed-top {
-    min-height:60px;
-    height:60px;
-    padding-top:0;
 }
 
 .navbar .brand img {
@@ -68,7 +62,8 @@
     border-radius:0;
     background:#FECE1A;
     color: #000;
-    margin-right: 3%;
+    margin-right: 20px;
+    margin-top: 20px;
 }
 .logoMenu{
     width: 90px;
