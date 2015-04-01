@@ -27,7 +27,7 @@
 
         <div class='row-fluid'>
               <div class="col-md-6 box-titulo">
-                <h1 class='title-pagina'><i class='fa fa-at fa-2x'></i> Conectivida com a Internet</h1>
+                <h1 class='title-pagina'><i class='fa fa-at fa-2x'></i> Conectividade</h1>
             </div>
         </div>
 
@@ -44,7 +44,7 @@
           <h3 class="subtitulo">TItulo</h3>
 
            <!-- INICIO SERVIÇOS -->
-          <section id="conectivdade">
+          <section id="conectividade">
               <div class='row-fluid'>
                   <p>CyberCafe24H uma prestadora de serviços e conveniência digital:</p>
                   <p>Oferecendo a seus clientes soluções & serviços em tecnologia da informação, rápidos confiáveis e convenientes.</p>

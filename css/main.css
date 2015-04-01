@@ -12,9 +12,10 @@ a, a:hover, a:focus, .btn:focus {
     color: #32B0E7;
 }
 
-#conectividade{
+#conectividade p{
     color: #0090E4;
 }
+
 a:hover {
     color: #FECE1A;
     text-decoration:none;
