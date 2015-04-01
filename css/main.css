@@ -102,6 +102,7 @@ h2.subtitulo-pagina{
 }
 #home-slider {
     overflow: hidden;
+    padding: 80px 0;
 }
 
 .link-home{
