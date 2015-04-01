@@ -58,6 +58,14 @@ h2.subtitulo-pagina{
     text-align: left;
 }
 
+h2.animated span{
+  display: block;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 15px;
+  width: 60%;
+  margin: 0 auto;
+}
 #servicos p.servico{
     color: #0090E4; 
     text-align: left;

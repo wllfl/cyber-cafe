@@ -56,7 +56,7 @@
               <div class="slider-inner">
                   <div class="slide-caption">
                       <div class="caption-content">
-                          <h2 class="animated fadeInDown"><span>Diveros Serviços On-Line</span></h2>
+                          <h2 class="animated fadeInDown"><span>Diversos Serviços On-Line</span></h2>
                           <ul class='one-page'>
                             <li><a href="servicos-online-oferecidos" class="btn btn-red btn-effect">Veja Mais</a></li>
                           </ul>
