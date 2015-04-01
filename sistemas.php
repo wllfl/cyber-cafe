@@ -39,10 +39,6 @@
             <div class="section secondary-section " id="portfolio">
             <div class="triangle"></div>
             <div class="container">
-                <div class=" title">
-                    <h1>Have You Seen our Works?</h1>
-                    <p>Duis mollis placerat quam, eget laoreet tellus tempor eu. Quisque dapibus in purus in dignissim.</p>
-                </div>
                 <ul class="nav nav-pills">
                     <li class="filter" data-filter="all">
                         <a href="#noAction">Todos</a>
@@ -61,7 +57,7 @@
                 <div id="single-project">
                     <div id="slidingDiv" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/site-estatico.jpg" height="356" width="570" alt="project 1" />
+                            <img src="img/thumbs-desenvolvimento/site-estatico.jpg" height="356" width="95%" alt="project 1" />
                         </div>  
                         <div class="span6">
                             <div class="project-description">
@@ -90,7 +86,7 @@
                     <!-- Start details for portfolio project 2 -->
                     <div id="slidingDiv1" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/controle-estoque.jpg" height="356" width="570" alt="project 2">
+                            <img src="img/thumbs-desenvolvimento/controle-estoque.jpg" height="356" width="95%" alt="project 2">
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -118,7 +114,7 @@
                     <!-- Start details for portfolio project 3 -->
                     <div id="slidingDiv2" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/consultoria-ti.jpg" height="356" width="570" alt="project 3">
+                            <img src="img/thumbs-desenvolvimento/consultoria-ti.jpg" height="356" width="95%" alt="project 3">
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -146,7 +142,7 @@
                     <!-- Start details for portfolio project 4 -->
                     <div id="slidingDiv3" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/site-dinamico.jpg" height="356" width="570" alt="project 4">
+                            <img src="img/thumbs-desenvolvimento/site-dinamico.jpg" height="356" width="95%" alt="project 4">
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -174,7 +170,7 @@
                     <!-- Start details for portfolio project 5 -->
                     <div id="slidingDiv4" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/aplicacoes-web.jpg" height="356" width="570" alt="project 5">
+                            <img src="img/thumbs-desenvolvimento/aplicacoes-web.jpg" height="356" width="95%" alt="project 5">
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -202,7 +198,7 @@
                     <!-- Start details for portfolio project 6 -->
                     <div id="slidingDiv5" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/integracao-apis.jpg" height="356" width="570" alt="project 6">
+                            <img src="img/thumbs-desenvolvimento/integracao-apis.jpg" height="356" width="95%" alt="project 6">
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -230,7 +226,7 @@
                     <!-- Start details for portfolio project 7 -->
                     <div id="slidingDiv6" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/aplicacoes-web.jpg" height="356" width="570" alt="project 7">
+                            <img src="img/thumbs-desenvolvimento/aplicacoes-web.jpg" height="356" width="95%" alt="project 7">
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -258,7 +254,7 @@
                     <!-- Start details for portfolio project 8 -->
                     <div id="slidingDiv7" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/pdv.jpg" height="356" width="570" alt="project 8">
+                            <img src="img/thumbs-desenvolvimento/pdv.jpg" height="356" width="95%" alt="project 8">
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -286,7 +282,7 @@
                     <!-- Start details for portfolio project 9 -->
                     <div id="slidingDiv8" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <img src="img/thumbs-desenvolvimento/cursos-programacao.jpg" height="356" width="570" alt="project 9">
+                            <img src="img/thumbs-desenvolvimento/cursos-programacao.jpg" height="356" width="95%" alt="project 9">
                         </div>
                         <div class="span6">
                             <div class="project-description">
