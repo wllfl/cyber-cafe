@@ -38,7 +38,7 @@
     <!-- INICIO CONTATO  -->
     <div class="container">
       <div class="row-fluid infoContato">
-        <div class="span5">
+        <div class="col-md-5">
           <h2 class="subtitulo-pagina">Informações </h2>
           <hr class="linhaContato">
               <p><i class="fa fa-user"></i> Responsável: Heleno A. Gomes</p>
@@ -48,7 +48,7 @@
               <p><i class="fa fa-envelope"></i><a href="mailto:treinamentos@ig.com.br"> treinamentos@ig.com.br</a></p>
         </div>
 
-        <div class="span7 form-contato">
+        <div class="col-md-6 form-contato">
           <form action="envia_email.php" method="post" id='form-contato'>
                 <input type="text" name='nome' required class="input-contato" placeholder="Nome">
                 <input type="text" name='email' required class="input-contato" placeholder="E-Mail">

@@ -17,6 +17,10 @@
     border:1px solid  #32B0E7;;
 }
 
+.form-contato {
+    float: right;
+}
+
 .form-contato .input-contato {
     border: 1px solid #0098ee;
     border-radius: 0;
