@@ -13,8 +13,8 @@
 			</div>
 			<br/><br/>
 			<div class="col-md-6 col-md-offset-3 box-icon">
-		  		<a href="#" class='link-icon'><i class="fa fa-facebook-square fa-3x"></i></a>
-		  		<a href="#" class='link-icon'><i class="fa fa-envelope-o fa-3x"></i></a>
+		  		<a href="https://www.facebook.com/cybercafe24h" target="_blank" class='link-icon'><i class="fa fa-facebook-square fa-3x"></i></a>
+		  		<a href="mailto:cybercafe24h@gmail.com" class='link-icon'><i class="fa fa-envelope-o fa-3x"></i></a>
 			</div>
 			<br/><br/><br/><br/>
 			<div class="row-fluid">
