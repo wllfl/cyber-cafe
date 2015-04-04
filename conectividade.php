@@ -3,8 +3,8 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Conectividade - Cyber Café</title>
-  <meta name="keywords" content="Desenvolvimento de sites em São Roque e Região, Jogos online sem lag,Serviços pessoais,ps4,ps3,xbox360, lazer mairinque,cyber cafe mairinque,cyber cafe 24h">
-  <meta name="description" content="Desenvolvimentos de Sistemas,Jogos online, ps4 ps3 xbox360,cyber café , lan house mairinque,conexao rapida,cyber cafe 24h mairinque">
+  <meta name="keywords" content="Desenvolvimento de sites em São Roque e Região, Jogos online sem lag,Serviços pessoais,ps4, ps3, xbox360, lazer mairinque,cyber cafe mairinque,cyber cafe 24h">
+  <meta name="description" content="cyber café, lan house mairinque,conexao rapida,cyber cafe 24h mairinque">
   <meta name="robots" content="ALL">
   <meta name="author" content="Cyber-Cafe-24h">
   <link rel="shortcut icon" href="img/fiv-icon.png">
