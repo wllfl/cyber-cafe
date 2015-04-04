@@ -524,6 +524,55 @@ background-color: #0098ee;
         display: none;
     }
 }
+
+.msg{
+  display: none;
+  min-width: 200px;
+  min-height: 20px;
+  font-size: 1em;
+  float: right;
+  padding: 5px;
+}
+
+.alerta{
+  background-color: #F7EBB2;
+  border: 1px solid #947515;
+  color: #947515;
+  display: block;
+}
+
+.alerta::before{
+  content: "\f129";
+  font-family: FontAwesome;
+  margin-right: 10px;
+}
+
+.sucesso{
+  background-color: #D1F1E3;
+  border: 1px solid #35986D;
+  color: #35986D;
+  display: block;
+}
+
+.sucesso::before{
+  content: "\f00c";
+  font-family: FontAwesome;
+  margin-right: 10px;
+}
+
+.erro{
+  background-color: #F0AFA3;
+  border: 1px solid #C41F1F;
+  color: #C41F1F;
+  display: block;
+}
+
+.erro::before{
+  content: "\f00d";
+  font-family: FontAwesome;
+  margin-right: 10px;
+}
+
 /*....................................JOGOS ONLINE....................................*/
 .video-jogos{
     margin: 5% 0 5% 0;
@@ -536,5 +585,12 @@ background-color: #0098ee;
 
     #conectividade h2, #servicos h2 {
       font-size: 1.1em;
+    }
+
+    #servicos p.servico {
+      color: #0090E4;
+      text-align: left;
+      font-size: 0.7em;
+      margin: 30px 0;
     }
 }

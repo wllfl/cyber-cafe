@@ -49,13 +49,14 @@
         </div>
 
         <div class="span7 form-contato">
-          <form>
-                <input type="text" class="input-contato" placeholder="Nome">
-                <input type="text" class="input-contato" placeholder="E-Mail">
-                <input type="text" class="input-contato" placeholder="Telefone Residencial">
-                <input type="text" class="input-contato" placeholder="Assunto">
-                <textarea class="input-contato textarea" rows="10"  placeholder="Digite sua mensagem"></textarea>
-                <input type="submit" class="btn btn-large btn-info">
+          <form action="envia_email.php" method="post" id='form-contato'>
+                <input type="text" name='nome' required class="input-contato" placeholder="Nome">
+                <input type="text" name='email' required class="input-contato" placeholder="E-Mail">
+                <input type="text" name='fone' class="input-contato" placeholder="Telefone Residencial">
+                <input type="text" name='assunto' class="input-contato" placeholder="Assunto">
+                <textarea class="input-contato textarea" rows="10" name='mensagem' required placeholder="Digite sua mensagem"></textarea>
+                <input type="button" id='submit' class="btn btn-large btn-info" value='Enviar'>
+                <span class='msg'></span>
           </form>
         </div>
       </div>
