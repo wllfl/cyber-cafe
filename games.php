@@ -322,7 +322,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                     </div>
                     <!-- End details for portfolio project 9 -->
                     <!-- Start details for portfolio project 10 -->
-                    <div id="slidingDiv8" class="toggleDiv row-fluid single-project">
+                    <div id="slidingDiv16" class="toggleDiv row-fluid single-project">
                         <div class="span6">
                             <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/k-mvG-NoLzU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
@@ -610,7 +610,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                                 <div class="mask"></div>
                             </div>
                         </li>
-                        <li class="span4 mix ps4">
+                        <!--<li class="span4 mix ps4">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/boynd-souls.jpg" alt="Beyond: Two SoulS">
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv3">
@@ -620,7 +620,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                                 <p>Simulador de Guerra</p>
                                 <div class="mask"></div>
                             </div>
-                        </li>                                                
+                        </li>    -->                                            
                         <li class="span4 mix ps3 360 ps4">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/call-of-duty-ghost.jpg" alt="Call Of Duty Ghost">
@@ -679,7 +679,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                         <li class="span4 mix ps3">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/granturismo-6.jpg" alt="Gran Turismo 6">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv9">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv16">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>GRAN TURISMO 6</h3>
@@ -690,7 +690,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                         <li class="span4 mix 360 ps4 ps3">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/gta.jpg"alt="GTA V">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv10">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv9">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>GTA V</h3>
@@ -701,7 +701,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                         <li class="span4 mix 360">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/halo-4.jpg" alt="HALO 4" />
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv11">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv10">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>HALO 4</h3>
@@ -712,7 +712,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                         <li class="span4 mix 360 ps3">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/injustice.jpg" alt="Injustice">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv12">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv11">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>INJUSTICE</h3>
@@ -723,7 +723,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                         <li class="span4 mix ps4">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/killzone.jpg" alt="killzone">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv13">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv12">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>KILLZONE</h3>
@@ -734,7 +734,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                         <li class="span4 mix 360 ps3">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/pes-2015.jpg" alt="PES 15">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv14">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv13">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>PES 2015</h3>
@@ -745,7 +745,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                         <li class="span4 mix ps3">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/the-last-of-us.jpg" alt="killzone">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv15">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv14">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>THE LAST OF US</h3>
@@ -756,7 +756,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                         <li class="span4 mix ps4 ps3">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/watch-dogs.jpg" alt="Watch Dogs">
-                                <a href="#single-project" class="show_hide more" rel="#slidingDiv16">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv15">
                                     <i class="icon-plus"></i>
                                 </a>
                                 <h3>WATCH DOGS</h3>
