@@ -510,6 +510,14 @@ background-color: #0098ee;
     .newsletter form {
         text-align:center;
     }
+    .img-pagseguro,
+    .box-pag-seguro{
+        width: 100%!important;
+    }
+    .box-like ,
+    .fb-page {
+        display: none!important;
+    }
 }
 /*....................................JOGOS ONLINE....................................*/
 .video-jogos{

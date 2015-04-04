@@ -19,7 +19,6 @@
 			<br/><br/><br/><br/>
 			<div class="row-fluid">
 				<div class="span7 box-pag-seguro">
-					<!-- <span class="link-rodape text-center">Trabalhamos com PagSeguro</span> -->
 					<img src="img/pag-seguro.jpg" class='img-pagseguro' alt="pagseguro">
 				</div>	
 				<div class="span5 col-md-offset-1 box-like">					
