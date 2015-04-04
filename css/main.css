@@ -528,3 +528,13 @@ background-color: #0098ee;
 .video-jogos{
     margin: 5% 0 5% 0;
 }
+
+@media only screen and (max-width: 767px) {
+    .caption-content h2{
+        font-size: 1.3em;
+    }
+
+    #conectividade h2, #servicos h2 {
+      font-size: 1.1em;
+    }
+}
