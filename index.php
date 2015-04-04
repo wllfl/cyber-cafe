@@ -71,7 +71,7 @@
                       <div class="caption-content">
                           <h2 class="animated fadeInDown"><span>Desenvolvimento de Sistemas, Sites e Consultorias</span></h2>
                           <ul class='one-page'>
-                            <li><a href="servicos-online-oferecidos" class="btn btn-red btn-effect">Veja Mais</a></li>
+                            <li><a href="desenvolvimento-de-software-e-sites" class="btn btn-red btn-effect">Veja Mais</a></li>
                           </ul>
                       </div>
                   </div>
@@ -138,7 +138,7 @@
                     </div>
                     <div class="carousel-content">
                         <h3>DESENVOLVIMENTO</h3>
-                        <p>Desenvolvemos sistemas, sites estáticos e dinâmicos, intergrações com serviços WEB, prestamos consultoria para diversas plataformas e banco de dados ...</p>
+                        <p>Desenvolvemos sistemas, sites estáticos e dinâmicos, integrações com serviços WEB, prestamos consultoria para diversas plataformas e banco de dados ...</p>
                         <a href="desenvolvimento-de-software-e-sites" class='link-home'>Veja +</a>
                     </div>
                 </div>
