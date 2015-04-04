@@ -6,9 +6,9 @@
 		  			<a href='principal' class='link-rodape'>Principal</a> |
 		  			<a href='jogos-online' class='link-rodape'>Jogos</a> |
 		  			<a href='conectividade' class='link-rodape'>Conectividade</a> |
-		  			<a href='servicos' class='link-rodape'>Serviços</a> |
-		  			<a href='desenvolvimento' class='link-rodape'>Desenvolvimento</a> |
-		  			<a href='contato' class='link-rodape'>Contato</a>
+		  			<a href='servicos-online-oferecidos' class='link-rodape'>Serviços</a> |
+		  			<a href='desenvolvimento-de-software-e-sites' class='link-rodape'>Desenvolvimento</a> |
+		  			<a href='entre-em-contato-conosco' class='link-rodape'>Contato</a>
 		  		</span>
 			</div>
 			<br/><br/>
