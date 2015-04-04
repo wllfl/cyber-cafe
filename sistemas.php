@@ -69,13 +69,13 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Produto:</span>Some Client Name</div>
+                                        <span>Produto:</span>Site Estático (Institucional)</div>
                                     <div>
-                                        <span>Prazo de entrega:</span>July 2013</div>
+                                        <span>Prazo de entrega:</span>Até 14 dias úteis</div>
                                     <div>
                                         <span>Tecnologias:</span>HTML5, CSS3, JavaScript</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Suporte:</span>30 dias após a publicação</div>
                                 </div>
                                 <p>Desenvolvemos sites responsivos com layouts dinâmicos e com as mais recentes tecnologias do mercado, possuimos design próprio além de uma equipe completa para 
                                 disponibilizar a melhor solução em Site na região.</p>
@@ -98,15 +98,15 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Produto:</span>Controle de Estoque (Lojas)</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Prazo de entrega:</span>Medido pela complexidade do sistema</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Tecnologias:</span>Delphi, C#, Java, SQL Server, MySQL e etc</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Suporte:</span>60 dias após a entrega</div>
                                 </div>
-                                <p>Life is a song - sing it. Life is a game - play it. Life is a challenge - meet it. Life is a dream - realize it. Life is a sacrifice - offer it. Life is love - enjoy it.</p>
+                                <p>Desenvolvemos soluções para controle de estoque personalizados e multiplataforma, atendendo as necessidades específicas dos nossos clientes. Consulte nossos valores!</p>
                             </div>
                         </div>
                     </div>
@@ -126,15 +126,15 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Produto:</span>Consultoria em Banco Dados</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Prazo de entrega:</span>Sob Demanda</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Tecnologias:</span>SQL Server, MySQL, PostgreSQL e Firebird.</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Suporte:</span>30 dias após a finalização</div>
                                 </div>
-                                <p>How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.</p>
+                                <p>Prestamos serviços de consultoria para os mais variados bancos de dados do mercado, processos como otimização de consultas, modelagem de dados e rotinas de backup.</p>
                             </div>
                         </div>
                     </div>
@@ -154,15 +154,15 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Produto:</span>Sites Dinâmicos</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Prazo de entrega:</span>Medido pela complexidade do site</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Tecnologias:</span>PHP, WordPress, HTML5, CSS3 e JavaScript.</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Suporte:</span>30 dias após a publicação</div>
                                 </div>
-                                <p>Life's but a walking shadow, a poor player, that struts and frets his hour upon the stage, and then is heard no more; it is a tale told by an idiot, full of sound and fury, signifying nothing.</p>
+                                <p>Desenvolvemos sites dinâmicos onde o cliente pode gerenciar seu próprio conteúdo de forma ágil e quando quiser, sem a necessidade de um profissional especializado.</p>
                             </div>
                         </div>
                     </div>
@@ -182,15 +182,15 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Produto:</span>Sistema Controle Financeiro (WEB)</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Prazo de entrega:</span>Medido pela complexidade do sistema</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Tecnologias:</span>PHP, MySQL, HTML5, CSS3 e JavaScript.</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Suporte:</span>30 dias após a entrega</div>
                                 </div>
-                                <p>We need to give each other the space to grow, to be ourselves, to exercise our diversity. We need to give each other space so that we may both give and receive such beautiful things as ideas, openness, dignity, joy, healing, and inclusion.</p>
+                                <p>Desenvolvemos sistemas para controle financeiro, impressão de boletos e muito mais via WEB, o cliente tem liberdade para acessar seus dados financeiros onde estiver, basta possuir conexão com a internet.</p>
                             </div>
                         </div>
                     </div>
@@ -210,15 +210,15 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Produto:</span>Integrações com APIs (WEB)</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Prazo de entrega:</span>Medido pela complexidade da integração</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Tecnologias:</span>PHP, JSON, XML e WebServices.</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Suporte:</span>30 dias após a entrega</div>
                                 </div>
-                                <p>I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.</p>
+                                <p>Desenvolvemos integrações com os mais variados tipos de WebServices, se você cliente já possui um sistema mas necessita de integração com WebServices ou APIs de sistemas externos, consulte nos.</p>
                             </div>
                         </div>
                     </div>
@@ -237,16 +237,16 @@
                                     </span>
                                 </div>
                                 <div class="project-info">
+                                   <div>
+                                        <span>Produto:</span>Aplicações WEB</div>
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Prazo de entrega:</span>Medido pela complexidade da aplicação</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Tecnologias:</span>PHP, MySQL, HTML5, CSS3, JavaScript e etc</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
-                                    <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Suporte:</span>30 dias após a entrega</div>
                                 </div>
-                                <p>Always continue the climb. It is possible for you to do whatever you choose, if you first get to know who you are and are willing to work with a power that is greater than ourselves to do it.</p>
+                                <p>Desenvolvemos aplicações WEB que necessitam de cadastro, geração de boleto, relatórios e etc. Você precisa de uma solução WEB para realizar inscrições para seu evento, gerar feeds de integração e muito mais, consulte nos.</p>
                             </div>
                         </div>
                     </div>
@@ -259,22 +259,22 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>Ponto de Venda</h3>
+                                    <h3>Gestão Financeira Comércio</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
                                 </div>
                                 <div class="project-info">
+                                   <div>
+                                        <span>Produto:</span>Gestão Financeira Comércio</div>
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Prazo de entrega:</span>Pronta Entrega</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Tecnologias:</span>Delphi e Firebird</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
-                                    <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Suporte:</span>60 dias após a entrega</div>
                                 </div>
-                                <p>What if you gave someone a gift, and they neglected to thank you for it - would you be likely to give them another? Life is the same way. In order to attract more of the blessings that life has to offer, you must truly appreciate what you already have.</p>
+                                <p>Possuímos um sistema para gestão financeira de comércio em geral. Nosso sistema possui impressão para etiquetas com código de barras, mini retaguarda, ponto de venda, fechamento de caixa, relatórios e muito mais.</p>
                             </div>
                         </div>
                     </div>
@@ -294,15 +294,15 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Client</span>Some Client Name</div>
+                                        <span>Produto:</span>Cursos e Palestras</div>
                                     <div>
-                                        <span>Date</span>July 2013</div>
+                                        <span>Prazo de entrega:</span>Não Consta</div>
                                     <div>
-                                        <span>Skills</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Tecnologias:</span>Delphi, PhoneGap, Banco de dados, SEO e etc</div>
                                     <div>
-                                        <span>Link</span>http://examplecomp.com</div>
+                                        <span>Suporte:</span>30 dias após a término</div>
                                 </div>
-                                <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
+                                <p>Possuímos profissionais graduados em tecnologia para ministrar cursos particulares e palestras nas mais diversas tecnologias para desenvolvimento de software do mercado, consulte nosssos preços e disponibilidade.</p>
                             </div>
                         </div>
                     </div>
@@ -391,7 +391,7 @@
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv7">
                                     <i class="icon-plus"></i>
                                 </a>
-                                <h3>Ponto de Venda PDV</h3>
+                                <h3>Gestão Financeira Comércio</h3>
                                 <p>Sistema para frente de caixa</p>
                                 <div class="mask"></div>
                             </div>

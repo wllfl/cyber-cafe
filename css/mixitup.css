@@ -43,6 +43,7 @@
       }
       .project-info div {
           margin-bottom:5px;
+          text-align: left;
       }
       .close {
           float: right;
