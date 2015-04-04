@@ -2,7 +2,7 @@
     <div class="navbar navbar-fixed-top" id="navigation">
         <div class="container">
             <div class="logoMenu">
-                <h1 class='logo'>Cyber Café 24h</h1>
+                <a href="principal"><h1 class='logo'>Cyber Café 24h</h1></a>
             </div>
             
             <!-- Menu Responsivo -->
