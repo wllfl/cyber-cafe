@@ -33,7 +33,7 @@
             
            <!-- INICIO SERVIÇOS -->
           <section id="img-servico">
-              <img src="img/servicos-online.jpg" height="400" width="1170"><br><br>
+              <img src="img/desenvolvimento.jpg" height="400" width="1170"><br><br>
                 
               <!-- Portfolio section start -->
             <div class="section secondary-section " id="portfolio">

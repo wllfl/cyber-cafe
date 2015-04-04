@@ -34,9 +34,8 @@
           <!-- INICIO CARROSSEL -->
           <section id="home-slider">
             <div id="slider" class="owl-carousel">
-                <div class="item" style="background-image: url(img/slider/home/games.jpg);"></div>
-                <div class="item" style="background-image: url(img/slider/home/games3.jpg);"></div>
-                <div class="item" style="background-image: url(img/slider/home/cyber-games3.jpg);"></div>
+                <div class="itemGames" style="background-image: url(img/slider/conectividade/banner-conectividade.jpg);"></div>
+                <div class="itemGames" style="background-image: url(img/slider/conectividade/conectividade-diversos.jpg);"></div>
             </div><!--/.owl-carousel-->
           </section>
           <!-- FIM CARROSSEL -->
