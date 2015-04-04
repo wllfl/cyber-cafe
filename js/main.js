@@ -25,6 +25,7 @@ $(document).ready(function() {
 	    autoPlay: true,
 	    responsive: true
     });
+
 });
 
 function initializeMap() {
