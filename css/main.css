@@ -594,4 +594,11 @@ background-color: #0098ee;
       font-size: 0.7em;
       margin: 30px 0;
     }
+
+    .title-pagina {
+      font-size: 1em;
+      text-transform: uppercase;
+      text-align: left;
+      color: #fff;
+    }
 }
