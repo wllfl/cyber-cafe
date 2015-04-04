@@ -36,6 +36,8 @@
                 
               <div class='row-fluid'>
                 <div id="servicos">
+                  <h2>CyberCafe24H uma prestadora de serviços e conveniência digital!</h2>
+                  <h4>Oferecendo a seus clientes soluções & serviços em tecnologia da informação, rápidos confiáveis e convenientes, confira abaixo nossos serciços:</h4>
                   <div class='col-md-5 col-servicos col-md-offset-1'>
                     <p class='servico'><i class='fa fa-check'></i> Segunda via de Certidões de Nascimento e Casamento</p>
                     <p class='servico'><i class='fa fa-check'></i> Antecedentes Criminais</p>

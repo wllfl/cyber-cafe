@@ -12,7 +12,11 @@ a, a:hover, a:focus, .btn:focus {
     color: #32B0E7;
 }
 
-#conectividade h2{
+#conectividade h2, #servicos h2{
+    color: #0090E4;
+}
+
+#servicos h4{
     color: #0090E4;
 }
 
