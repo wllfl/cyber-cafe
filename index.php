@@ -69,7 +69,7 @@
               <div class="slider-inner">
                   <div class="slide-caption">
                       <div class="caption-content">
-                          <h2 class="animated fadeInDown"><span>Desenvolvimento de Sistemas, Sites e Consultorias</span></h2>
+                          <h2 class="animated fadeInDown"><span>Softwares, Sites e Consultorias</span></h2>
                           <ul class='one-page'>
                             <li><a href="desenvolvimento-de-software-e-sites" class="btn btn-red btn-effect">Veja Mais</a></li>
                           </ul>
