@@ -32,7 +32,7 @@
               </div>
           </div>
           <!-- INICIO CARROSSEL -->
-          <section id="home-slider" class='slider-interno'>
+          <section id="home-slider">
             <div id="slider" class="owl-carousel">
                 <div class="itemGames" style="background-image: url(img/slider/games/banner.jpg);"></div>
                 <div class="itemGames" style="background-image: url(img/slider/games/ambiente-unico.jpg);"></div>
@@ -81,16 +81,16 @@
                                 </div>
                                 <div class="project-info">
                                     <div>
-                                        <span>Desenvolvedora:</span>Some Client Name</div>
+                                        <span>Desenvolvedora:</span>Ubisoft Montreal</div>
                                     <div>
-                                        <span>Lançamento:</span>July 2013</div>
+                                        <span>Lançamento:</span>29 de outubro de 2013</div>
                                     <div>
-                                        <span>Gênero:</span>HTML5, CSS3, JavaScript</div>
+                                        <span>Gênero:</span>Aventura</div>
                                     <div>
-                                        <span>Faixa Etária:</span>http://examplecomp.com</div>
+                                        <span>Faixa Etária:</span>18 +</div>
                                 </div>
-                                <p>Desenvolvemos sites responsivos com layouts dinâmicos e com as mais recentes tecnologias do mercado, possuimos design próprio além de uma equipe completa para 
-                                disponibilizar a melhor solução em Site na região.</p>
+                                <p>Assassin’s Creed IV Black Flag começa em 1715, quando os piratas estabeleceram uma república sem lei no Caribe e governaram a terra e os mares. Esses bandidos detinham navios, paravam o comércio internacional, e saqueavam grandes fortunas. Eles ameaçaram as estruturas de poder que governavam a Europa, inspirando a imaginação de milhões de pessoas, e deixaram um legado que ainda perdura.
+</p>
                             </div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                     <!-- Start details for portfolio project 2 -->
                     <div id="slidingDiv1" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/_i5_OGoeDhA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/wJ_F525yHVY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -118,7 +118,8 @@
                                     <div>
                                         <span>Faixa Etária:</span>16 +</div>
                                 </div>
-                                <p>Life is a song - sing it. Life is a game - play it. Life is a challenge - meet it. Life is a dream - realize it. Life is a sacrifice - offer it. Life is love - enjoy it.</p>
+                                <p>Assente no poder e fidelidade do novo Frostbite™ 3, Battlefield 4 proporciona uma experiência visceral e dramática, como nenhuma outra.
+Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigos se abrigam. Só no Battlefield serás capaz de liderar um ataque a partir da traseira de uma lancha. O Battlefield dá-te liberdade para fazeres mais e seres mais, enquanto usas o teu potencial e abres caminho até à vitória.</p>
                             </div>
                         </div>
                     </div>
@@ -146,7 +147,8 @@
                                     <div>
                                         <span>Faixa Etária:</span>18 +</div>
                                 </div>
-                                <p>How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.</p>
+                                <p>CALL OF DUTY: ADVANCED WARFARE se passa em um futuro plausível onde o progresso tecnológico e as práticas militares de hoje convergirem com consequências poderosas.
+    </p>
                             </div>
                         </div>
                     </div>
@@ -174,7 +176,8 @@
                                     <div>
                                         <span>Faixa Etária:</span>17 +</div>
                                 </div>
-                                <p>How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving and tolerant of the weak and strong. Because someday in your life you will have been all of these.</p>
+                                <p>Em Call of Duty: Ghosts, a história é contada através dos olhos da personagem do jogador, Logan Walker. Os jogadores controlam Logan durante a maior parte do jogo, mas também controlam outros personagens, incluindo um astronauta especialista de nome Baker, o pai de Logan, Elias Walker e até o cachorrão Riley um pastor alemão
+</p>
                             </div>
                         </div>
                     </div>
@@ -202,7 +205,7 @@
                                     <div>
                                         <span>Faixa Etária:</span>Livre</div>
                                 </div>
-                                <p>Life's but a walking shadow, a poor player, that struts and frets his hour upon the stage, and then is heard no more; it is a tale told by an idiot, full of sound and fury, signifying nothing.</p>
+                                <p>As principais características estão listadas abaixo. A EA decidiu este ano se concentrar mais na experiência on-line. Isto por causa de características previamente apreciada pelos jogadores, como torneios personalizados e amistosos entre usuários.</p>
                             </div>
                         </div>
                     </div>
@@ -230,7 +233,7 @@
                                     <div>
                                         <span>Faixa Etária:</span>Livre</div>
                                 </div>
-                                <p>We need to give each other the space to grow, to be ourselves, to exercise our diversity. We need to give each other space so that we may both give and receive such beautiful things as ideas, openness, dignity, joy, healing, and inclusion.</p>
+                                <p>O FIFA Ultimate Team (FUT) é um modo de jogo do FIFA 15 onde ganhas, compras, transferes e vendes jogadores cobiçados para montares a tua equipa dos sonhos. Treina a tua equipa, contrata jogadores, compra pacotes e enfrenta outros jogadores em torneios e temporadas com online ou para um jogador. </p>
                             </div>
                         </div>
                     </div>
@@ -258,7 +261,7 @@
                                     <div>
                                         <span>Faixa Etária:</span>6 +</div>
                                 </div>
-                                <p>I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.</p>
+                                <p>A série Forza Motorsport tem sido sempre sobre os fãs do carro - uma crescente comunidade de amantes de carros apaixonados que gostam de todos os aspectos da cultura do carro encontrado na série Forza.</p>
                             </div>
                         </div>
                     </div>
@@ -286,7 +289,8 @@
                                     <div>
                                         <span>Faixa Etária:</span>6 +</div>
                                 </div>
-                                <p>I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.</p>
+                                <p>Com uma competição online avançada, funções de comunidade novas, o produto da colaboração com as montadoras de automóveis do mundo, “Vision Gran Turismo”, e mais, o Gran Turismo®6 está na vanguarda da tecnologia de jogos de corrida.
+</p>
                             </div>
                         </div>
                     </div>
@@ -312,9 +316,9 @@
                                     <div>
                                         <span>Gênero:</span>Ação-aventura</div>
                                     <div>
-                                        <span>Faixa Etária:</span>17 +</div>
+                                        <span>Faixa Etária:</span>18 +</div>
                                 </div>
-                                <p>Always continue the climb. It is possible for you to do whatever you choose, if you first get to know who you are and are willing to work with a power that is greater than ourselves to do it.</p>
+                                <p>Grand Theft Auto V é um jogo de mundo aberto jogado em primeira ou terceira pessoa. O jogador usa combate de corpo a corpo, armas e explosivos para lutar contra inimigos, e pode correr, saltar, nadar ou usar veículos para navegar pelo mundo do jogo.</p>
                             </div>
                         </div>
                     </div>
@@ -340,9 +344,9 @@
                                     <div>
                                         <span>Gênero:</span>Tiro em primeira pessoa</div>
                                     <div>
-                                        <span>Faixa Etária:</span>14 +</div>
+                                        <span>Faixa Etária:</span>17 +</div>
                                 </div>
-                                <p>What if you gave someone a gift, and they neglected to thank you for it - would you be likely to give them another? Life is the same way. In order to attract more of the blessings that life has to offer, you must truly appreciate what you already have.</p>
+                                <p>Jogue a campanha e teste suas habilidades contra os já conhecidos Covenants e os novos inimigos das forças Promethean no modo solo ou com até três amigos em tela dividida. </p>
                             </div>
                         </div>
                     </div>
@@ -370,7 +374,7 @@
                                     <div>
                                         <span>Faixa Etária:</span>13 +</div>
                                 </div>
-                                <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
+                                <p>E se nossos maiores heróis se transformassem em nossa maior ameaça</p>
                             </div>
                         </div>
                     </div>
@@ -398,7 +402,7 @@
                                     <div>
                                         <span>Faixa Etária:</span>16 +</div>
                                 </div>
-                                <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
+                                <p>O que você sacrificaria pela paz?</p>
                             </div>
                         </div>
                     </div>
@@ -426,7 +430,7 @@
                                     <div>
                                         <span>Faixa Etária:</span>Livre</div>
                                 </div>
-                                <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
+                                <p>PES 2015 volta verdadeiramente às características que sempre marcaram a essência do PES: Controlo Total, Comandos Super Reactivos e uma Jogabilidade Renovada, onde o jogador tem um controlo total sobre todo o jogo.</p>
                             </div>
                         </div>
                     </div>
@@ -454,7 +458,7 @@
                                     <div>
                                         <span>Faixa Etária:</span>16 +</div>
                                 </div>
-                                <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
+                                <p>Joel, um sobrevivente implacável com poucas linhas morais esquerda para cruzar, mora em uma das últimas zonas de quarentena restantes. Estas paredes-off, cidades opressivas são executados por o que sobrou dos militares. Apesar da lei marcial estrito, Joel atua no mercado negro da cidade, contrabando para o preço certo</p>
                             </div>
                         </div>
                     </div>
@@ -467,7 +471,7 @@
                         <div class="span6">
                             <div class="project-description">
                                 <div class="project-title clearfix">
-                                    <h3>WATCH DOG</h3>
+                                    <h3>WATCH DOGs</h3>
                                     <span class="show_hide close">
                                         <i class="icon-cancel"></i>
                                     </span>
@@ -482,7 +486,8 @@
                                     <div>
                                         <span>Faixa Etária:</span>18 +</div>
                                 </div>
-                                <p>I learned that we can do anything, but we can't do everything... at least not at the same time. So think of your priorities not in terms of what activities you do, but when you do them. Timing is everything.</p>
+                                <p>Situado em Chicago, onde uma rede central de computadores conecta tudo e todos, Watch_Dogs explora o impacto da tecnologia na nossa sociedade. Usando a cidade como sua arma, você vai embarcar em uma missão pessoal para impor a sua própria marca da justiça.
+</p>
                             </div>
                         </div>
                     </div>
@@ -560,7 +565,7 @@
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv6">
                                     <i class="icon-plus"></i>
                                 </a>
-                                <h3>FORZA HORIZON</h3>
+                                <h3>FORZA HORIZON 2</h3>
                                 <p>Jogo de corrida Arcade</p>
                                 <div class="mask"></div>
                             </div>
