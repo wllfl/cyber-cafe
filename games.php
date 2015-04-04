@@ -35,7 +35,6 @@
           <section id="home-slider">
             <div id="slider" class="owl-carousel">
                 <div class="itemGames" style="background-image: url(img/slider/games/banner.jpg);"></div>
-                <div class="itemGames" style="background-image: url(img/slider/games/ambiente-unico.jpg);"></div>
                 <div class="itemGames" style="background-image: url(img/slider/games/jogos-ambiente.jpg);"></div>
             </div><!--/.owl-carousel-->
           </section>
@@ -124,6 +123,64 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                         </div>
                     </div>
                     <!-- End details for portfolio project 2 -->
+                    <!-- Start details for portfolio project 2 -->
+                    <div id="slidingDiv1" class="toggleDiv row-fluid single-project">
+                        <div class="span6">
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/wJ_F525yHVY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="span6">
+                            <div class="project-description">
+                                <div class="project-title clearfix">
+                                    <h3>BATLEFIELD HARDLINE</h3>
+                                    <span class="show_hide close">
+                                        <i class="icon-cancel"></i>
+                                    </span>
+                                </div>
+                                <div class="project-info">
+                                    <div>
+                                        <span>Desenvolvedora:</span>EA Digital Illusions CE</div>
+                                    <div>
+                                        <span>Lançamento:</span>29 de outubro de 2013</div>
+                                    <div>
+                                        <span>Gênero:</span>Jogo de tiro primeira-pessoa</div>
+                                    <div>
+                                        <span>Faixa Etária:</span>16 +</div>
+                                </div>
+                                <p>Assente no poder e fidelidade do novo Frostbite™ 3, Battlefield 4 proporciona uma experiência visceral e dramática, como nenhuma outra.
+Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigos se abrigam. Só no Battlefield serás capaz de liderar um ataque a partir da traseira de uma lancha. O Battlefield dá-te liberdade para fazeres mais e seres mais, enquanto usas o teu potencial e abres caminho até à vitória.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End details for portfolio project 2 -->                    
+                    <!-- Start details for portfolio project 2 -->
+                    <div id="slidingDiv1" class="toggleDiv row-fluid single-project">
+                        <div class="span6">
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/wJ_F525yHVY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <div class="span6">
+                            <div class="project-description">
+                                <div class="project-title clearfix">
+                                    <h3>BOYND SOULS</h3>
+                                    <span class="show_hide close">
+                                        <i class="icon-cancel"></i>
+                                    </span>
+                                </div>
+                                <div class="project-info">
+                                    <div>
+                                        <span>Desenvolvedora:</span>EA Digital Illusions CE</div>
+                                    <div>
+                                        <span>Lançamento:</span>29 de outubro de 2013</div>
+                                    <div>
+                                        <span>Gênero:</span>Jogo de tiro primeira-pessoa</div>
+                                    <div>
+                                        <span>Faixa Etária:</span>16 +</div>
+                                </div>
+                                <p>Assente no poder e fidelidade do novo Frostbite™ 3, Battlefield 4 proporciona uma experiência visceral e dramática, como nenhuma outra.
+Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigos se abrigam. Só no Battlefield serás capaz de liderar um ataque a partir da traseira de uma lancha. O Battlefield dá-te liberdade para fazeres mais e seres mais, enquanto usas o teu potencial e abres caminho até à vitória.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End details for portfolio project 2 -->                    
                     <!-- Start details for portfolio project 3 -->
                     <div id="slidingDiv2" class="toggleDiv row-fluid single-project">
                         <div class="span6">
@@ -515,6 +572,28 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                                 <div class="mask"></div>
                             </div>
                         </li>
+                        <li class="span4 mix ps4">
+                            <div class="thumbnail">
+                                <img src="img/thumbs-games/batlefield-4.jpg" alt="Batlefild 4">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv1">
+                                    <i class="icon-plus"></i>
+                                </a>
+                                <h3>BATLEFIELD HARDLINE</h3>
+                                <p>Simulador de Guerra</p>
+                                <div class="mask"></div>
+                            </div>
+                        </li>
+                        <li class="span4 mix ps4">
+                            <div class="thumbnail">
+                                <img src="img/thumbs-games/batlefield-4.jpg" alt="Batlefild 4">
+                                <a href="#single-project" class="show_hide more" rel="#slidingDiv1">
+                                    <i class="icon-plus"></i>
+                                </a>
+                                <h3>boynd-souls</h3>
+                                <p>Simulador de Guerra</p>
+                                <div class="mask"></div>
+                            </div>
+                        </li>                                                
                         <li class="span4 mix ps3 360 ps4">
                             <div class="thumbnail">
                                 <img src="img/thumbs-games/call-of-duty-ghost.jpg" alt="Call Of Duty Ghost">
