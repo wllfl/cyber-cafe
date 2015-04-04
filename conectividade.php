@@ -32,7 +32,7 @@
         </div>
 
           <!-- INICIO CARROSSEL -->
-          <section id="home-slider">
+          <section id="home-slider" class='slider-interno'>
             <div id="slider" class="owl-carousel">
                 <div class="itemGames" style="background-image: url(img/slider/conectividade/banner-conectividade.jpg);"></div>
                 <div class="itemGames" style="background-image: url(img/slider/conectividade/conectividade-diversos.jpg);"></div>
@@ -40,13 +40,10 @@
           </section>
           <!-- FIM CARROSSEL -->
 
-          <h3 class="subtitulo">TItulo</h3>
-
            <!-- INICIO SERVIÇOS -->
           <section id="conectividade">
               <div class='row-fluid'>
-                  <p>CyberCafe24H uma prestadora de serviços e conveniência digital:</p>
-                  <p>Oferecendo a seus clientes soluções & serviços em tecnologia da informação, rápidos confiáveis e convenientes.</p>
+                  <h2>Infraestrutura completa com ótima localização, possuímos equipamentos modernos com acesso a internet em alta velocidade e profissionais capacitados para melhor atende-los.</h2>
               </div>
           </section>
           <!-- FIM SERVIÇOS -->

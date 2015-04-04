@@ -32,7 +32,7 @@
               </div>
           </div>
           <!-- INICIO CARROSSEL -->
-          <section id="home-slider">
+          <section id="home-slider" class='slider-interno'>
             <div id="slider" class="owl-carousel">
                 <div class="itemGames" style="background-image: url(img/slider/games/banner.jpg);"></div>
                 <div class="itemGames" style="background-image: url(img/slider/games/ambiente-unico.jpg);"></div>

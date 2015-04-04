@@ -23,7 +23,7 @@
     <?php require_once 'include/inc_menu.php'; ?>  
 
     <!-- INICIO CARROSSEL -->
-    <section id="home-slider">
+    <section id="home-slider" class='slider-full'>
       <div id="slider" class="owl-carousel">
 
           <div class="item" style="background-image: url(img/slider/home/conectividade-internet.jpg);">

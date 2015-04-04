@@ -12,7 +12,7 @@ a, a:hover, a:focus, .btn:focus {
     color: #32B0E7;
 }
 
-#conectividade p{
+#conectividade h2{
     color: #0090E4;
 }
 
@@ -107,7 +107,7 @@ h2.animated span{
     height: 400px;
     width: 100%;
 }
-#home-slider {
+#home-slider.slider-full {
     overflow: hidden;
     padding: 80px 0;
 }
