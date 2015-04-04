@@ -69,7 +69,7 @@
                 <div id="single-project">
                     <div id="slidingDiv" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/N3sp3Qes94I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/N3sp3Qes94I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -98,7 +98,7 @@
                     <!-- Start details for portfolio project 2 -->
                     <div id="slidingDiv1" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/wJ_F525yHVY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/wJ_F525yHVY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -127,7 +127,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                     <!-- Start details for portfolio project 3 -->
                     <div id="slidingDiv2" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/rd76uJPNB5s?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/rd76uJPNB5s?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -156,7 +156,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                     <!-- Start details for portfolio project 4 -->
                     <div id="slidingDiv3" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/YeMwByosHaM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/YeMwByosHaM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -185,7 +185,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                     <!-- Start details for portfolio project 5 -->
                     <div id="slidingDiv4" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/N51pmP4fSL8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/N51pmP4fSL8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -213,7 +213,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                     <!-- Start details for portfolio project 6 -->
                     <div id="slidingDiv5" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/vZuen-McoVk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/vZuen-McoVk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -241,7 +241,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                     <!-- Start details for portfolio project 7 -->
                     <div id="slidingDiv6" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/6IYOXntEFcE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/6IYOXntEFcE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -269,7 +269,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                     <!-- Start details for portfolio project 8 -->
                     <div id="slidingDiv7" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/k-mvG-NoLzU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/k-mvG-NoLzU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -298,7 +298,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                     <!-- Start details for portfolio project 9 -->
                     <div id="slidingDiv8" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/fUfyZvkcFas?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/fUfyZvkcFas?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -326,7 +326,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                     <!-- Start details for portfolio project 10 -->
                     <div id="slidingDiv9" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/PC-RezIwVDM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/PC-RezIwVDM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -354,7 +354,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                     <!-- Start details for portfolio project 11 -->
                     <div id="slidingDiv10" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/CvxCUY0YBW4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/CvxCUY0YBW4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -382,7 +382,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                     <!-- Start details for portfolio project 12 -->
                     <div id="slidingDiv11" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/z37A4BQ8CPU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/z37A4BQ8CPU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -410,7 +410,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                     <!-- Start details for portfolio project 13 -->
                     <div id="slidingDiv12" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/LDL4-mSoHe4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/LDL4-mSoHe4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -438,7 +438,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                     <!-- Start details for portfolio project 14 -->
                     <div id="slidingDiv13" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/kE7li_u1nmg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/kE7li_u1nmg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
@@ -466,7 +466,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                     <!-- Start details for portfolio project 15 -->
                     <div id="slidingDiv14" class="toggleDiv row-fluid single-project">
                         <div class="span6">
-                            <iframe width="95%" height="315" src="https://www.youtube.com/embed/xdxLiZCtj6U?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            <iframe width="95%" height="315" class="video-jogos" src="https://www.youtube.com/embed/xdxLiZCtj6U?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                         </div>
                         <div class="span6">
                             <div class="project-description">
