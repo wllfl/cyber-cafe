@@ -18,7 +18,7 @@
     margin:10px 3px;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
-    border: 1px solid #181A1C;
+    border: 3px solid #181A1C;
     box-shadow: none;
     font-size:15px;
     text-shadow: none;
@@ -35,10 +35,10 @@
 #pg-servicos #servicos a,
 #pg-desenvolvimento #desenvolvimento a,
 #pg-contato #contato a{
-    border-bottom: 3px solid #FECE1A;
-    color: #fff;
+    border: 3px solid #FECE1A;
+    color: #FECE1A;
     background-color: #181A1C;
-    transition: border-color 1s ease;
+    transition: all 1s ease;
 }
 .nav-pills {
     margin-bottom: 30px;
