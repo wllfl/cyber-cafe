@@ -204,8 +204,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                                     <div>
                                         <span>Faixa Etária:</span>18 +</div>
                                 </div>
-                                <p>CALL OF DUTY: ADVANCED WARFARE se passa em um futuro plausível onde o progresso tecnológico e as práticas militares de hoje convergirem com consequências poderosas.
-    </p>
+                                <p>Em Call of Duty: Ghosts, a história é contada através dos olhos da personagem do jogador, Logan Walker. Os jogadores controlam Logan durante a maior parte do jogo, mas também controlam outros personagens, incluindo um astronauta especialista de nome Baker, o pai de Logan, Elias Walker e até o cachorrão Riley um pastor alemão</p>
                             </div>
                         </div>
                     </div>
@@ -232,9 +231,8 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                                         <span>Gênero:</span>Tiro em primeira pessoa</div>
                                     <div>
                                         <span>Faixa Etária:</span>17 +</div>
-                                </div>
-                                <p>Em Call of Duty: Ghosts, a história é contada através dos olhos da personagem do jogador, Logan Walker. Os jogadores controlam Logan durante a maior parte do jogo, mas também controlam outros personagens, incluindo um astronauta especialista de nome Baker, o pai de Logan, Elias Walker e até o cachorrão Riley um pastor alemão
-</p>
+                                </div>                              
+                                <p>CALL OF DUTY: ADVANCED WARFARE se passa em um futuro plausível onde o progresso tecnológico e as práticas militares de hoje convergirem com consequências poderosas.</p>
                             </div>
                         </div>
                     </div>
@@ -717,7 +715,7 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
                                 <a href="#single-project" class="show_hide more" rel="#slidingDiv12">
                                     <i class="icon-plus"></i>
                                 </a>
-                                <h3>Injustice</h3>
+                                <h3>INJUSTICE</h3>
                                 <p>Luta dos super-heróis</p>
                                 <div class="mask"></div>
                             </div>

@@ -43,7 +43,7 @@
            <!-- INICIO SERVIÇOS -->
           <section id="conectividade">
               <div class='row-fluid'>
-                  <h2>Infraestrutura completa com ótima localização, possuímos equipamentos modernos com acesso a internet em alta velocidade e profissionais capacitados para melhor atende-los.</h2>
+                  <h2>Infraestrutura Completa com Ótima Localização, Equipamentos Modernos Com Acesso a Internet em Alta Velocidade e Profissionais Capacitados para Melhor Atende-lo.</h2>
               </div>
           </section>
           <!-- FIM SERVIÇOS -->
