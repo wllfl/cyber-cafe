@@ -1,11 +1,9 @@
   <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-	<meta charset="UTF-8">
-	<title>Games - Cyber Café</title>
-  <meta name="keywords" content="Desenvolvimento de sites em São Roque e Região, Jogos online sem lag,Serviços pessoais,ps4,ps3,xbox360, lazer mairinque,cyber cafe mairinque,cyber cafe 24h">
-  <meta name="description" content="Jogos online, ps4, ps3, xbox360, Games, PlayStation, XBOX">
-  <meta name="robots" content="ALL">
+  <meta charset="UTF-8">
+  <title>Games - Cyber Café</title>
+  <meta name="description" content="Jogos online com modernos consoles xbox360, PlayStation 3, PlayStation 4, possuímos divesos títulos de games">
   <meta name="author" content="Cyber-Cafe-24h">
   <link rel="shortcut icon" href="img/favicon-cyber-cafe.png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">

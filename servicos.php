@@ -3,9 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Serviços - Cyber Café</title>
-  <meta name="keywords" content="Desenvolvimento de sites em São Roque e Região, Jogos online sem lag,Serviços pessoais,ps4,ps3,xbox360, lazer mairinque,cyber cafe mairinque,cyber cafe 24h">
-  <meta name="description" content="Segunda via de documentos, Impressões, Gravação de CDs, Gravação de DVDs, Serviços online, cyber cafe 24h mairinque">
-  <meta name="robots" content="ALL">
+  <meta name="description" content="Serviços online como Segunda via de documentos, Impressões, Gravação de CDs, Gravação de DVDs">
   <meta name="author" content="Cyber-Cafe-24h">
   <link rel="shortcut icon" href="img/fiv-icon.png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">

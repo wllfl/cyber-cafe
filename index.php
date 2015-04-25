@@ -3,9 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Cyber Café 24h | Principal</title>
-  <meta name="keywords" content="Desenvolvimento de sites em São Roque e Região, Jogos online sem lag,Serviços pessoais,ps4,ps3,xbox360, lazer mairinque,cyber cafe mairinque,cyber cafe 24h">
-  <meta name="description" content="Desenvolvimentos de Sistemas,Jogos online, ps4 ps3 xbox360,cyber café , lan house mairinque,conexao rapida,cyber cafe 24h mairinque">
-  <meta name="robots" content="ALL">
+  <meta name="description" content="Cyber Café em Mairinque, Desenvolvimento de Sistemas e Sites, Jogos Online, Conexão com a internet">
   <meta name="author" content="Cyber-Cafe-24h">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="img/favicon-cyber-cafe.png">
