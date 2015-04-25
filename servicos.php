@@ -30,7 +30,7 @@
         
           <!-- INICIO SERVIÇOS -->
           <section id="img-servico">
-              <img src="img/servicos-online.jpg" height="400" width="1170"><br><br>
+              <img src="img/servicos-online.jpg" alt="Prestadora de Serviços Online" height="400" width="1170"><br><br>
                 
               <div class='row-fluid'>
                 <div id="servicos">

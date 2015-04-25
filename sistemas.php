@@ -31,7 +31,7 @@
             
            <!-- INICIO SERVIÇOS -->
           <section id="img-servico">
-              <img src="img/desenvolvimento.jpg" height="400" width="1170"><br><br>
+              <img src="img/desenvolvimento.jpg" height="400" width="1170" alt='Desenvolvimento de Sistemas e Sites'><br><br>
                 
               <!-- Portfolio section start -->
             <div class="section secondary-section " id="portfolio">
