@@ -5,7 +5,7 @@
 	<title>Conectividade - Cyber Café</title>
   <meta name="description" content="Cyber Café 24H possuímos máquinas modernas e link de conexão com a internet com mais de 15 MB de velocidade">
   <meta name="author" content="Cyber-Cafe-24h">
-  <link rel="shortcut icon" href="img/fiv-icon.png">
+  <link rel="shortcut icon" href="img/favicon-cyber-cafe.png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
   <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css" />
@@ -41,7 +41,11 @@
            <!-- INICIO SERVIÇOS -->
           <section id="conectividade">
               <div class='row-fluid'>
-                  <h2>Infraestrutura Completa com Ótima Localização, Equipamentos Modernos Com Acesso a Internet em Alta Velocidade e Profissionais Capacitados para Melhor Atende-lo.</h2>
+                  <br>
+                  <strong>COMUNIQUE-SE</strong>
+                  <strong>DIVIRTA-SE</strong>
+                  <strong>INFORME-SE</strong>
+                  <h3>Navegue pela internet  e acesse seus e-mails, veja e compartilhe suas fotos, curta seus vídeos e jogos com Infraestrutura completa e rápida em equipamentos modernos. Realize vídeo chamadas e converse com seus amigos e familiares usando as principais redes sociais do mundo.  Tudo em ótima Localização e profissionais capacitados.</h3>
               </div>
           </section>
           <!-- FIM SERVIÇOS -->

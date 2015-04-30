@@ -12,7 +12,18 @@ a, a:hover, a:focus, .btn:focus {
     color: #32B0E7;
 }
 
-#conectividade h2, #servicos h2{
+#conectividade h3{
+    color: #0090E4;
+    font-size: 25px;
+}
+
+#conectividade strong{
+    color: #0090E4;
+    font-size: 40px;
+    margin: 40px;
+}
+
+#servicos h2{
     color: #0090E4;
 }
 
@@ -584,8 +595,12 @@ background-color: #0098ee;
         font-size: 1.3em;
     }
 
-    #conectividade h2, #servicos h2 {
-      font-size: 1.1em;
+    #conectividade strong{
+        font-size: 1.3em;
+    }
+
+    #conectividade h3, #servicos h2 {
+      font-size: 1em;
     }
 
     #servicos p.servico {

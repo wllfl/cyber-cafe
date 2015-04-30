@@ -5,7 +5,7 @@
 	<title>Contato - Cyber Café</title>
   <meta name="description" content="Cyber Café 24H nossa localização e nosso formulário de contato">
   <meta name="author" content="Cyber-Cafe-24h">
-  <link rel="shortcut icon" href="img/fiv-icon.png">
+  <link rel="shortcut icon" href="img/favicon-cyber-cafe.png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
   <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css" />
