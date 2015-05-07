@@ -30,7 +30,7 @@
 		  		<span class="location">Rua Monteiro Lobato, 381 - Centro, </span>
 		  		<span class="location">Mairinque, SP | CEP: 18120-000</span>
 		  		<span class="location">Fone: (11) 4708-3000</span>
-				<h4 class="desenvolvido text-center">&copy; 2010 - Desenvolvido por: <strong>CyberCafe24h</strong></h4>
+				<h4 class="desenvolvido text-center">&copy; 2010-<?=date('Y')?> Desenvolvido por: <strong>CyberCafe24h</strong></h4>
 			</div>	  	
 		</div>
 	</div>
