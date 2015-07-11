@@ -72,6 +72,7 @@
     <script type="text/javascript" src="js/bootstrap.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&amp;callback=initializeMap"></script>
+    <script type="text/javascript" src="js/analytics.js"></script>
     </body>
 </body>
 </html>

@@ -66,6 +66,7 @@
     <!-- FIM RODAPÉ -->
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/bootstrap.js"></script>
+    <script type="text/javascript" src="js/analytics.js"></script>
     </script>
 </body>
 </html>

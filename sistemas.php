@@ -424,5 +424,6 @@
     <script type="text/javascript" src="js/jquery.mixitup.js"></script>
     <script src="js/jquery.easing.min.js"></script>
     <script type="text/javascript" src="js/mixitup-custom.js"></script>
+    <script type="text/javascript" src="js/analytics.js"></script>
 </body>
 </html>

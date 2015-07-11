@@ -794,5 +794,6 @@ Só no Battlefield serás capaz de fazer ruir os edifícios onde os teus inimigo
     <script type="text/javascript" src="js/jquery.mixitup.js"></script>
     <script type="text/javascript" src="js/owl.carousel.min.js"></script>
     <script type="text/javascript" src="js/mixitup-custom.js"></script>
+    <script type="text/javascript" src="js/analytics.js"></script>
 </body>
 </html>
