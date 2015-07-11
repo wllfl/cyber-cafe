@@ -34,24 +34,69 @@
                 
               <div class='row-fluid'>
                 <div id="servicos">
-                  <h2>CyberCafe24H uma Prestadora de Serviços e Conveniência Digital!</h2>
+                  <h2>CyberCafe24H uma Lan House, Prestadora de Serviços e Conveniência Digital!</h2>
                   <h4>Oferecendo a seus Clientes Soluções & Serviços em Tecnologia da Informação, Rápidos, Confiáveis e Convenientes.</h4>
                   <h4>Confira Abaixo Alguns de Nossos Serviços:</h4>
+                  <br>
                   <div class='col-md-5 col-servicos col-md-offset-1'>
-                    <p class='servico'><i class='fa fa-check'></i> Segunda via de Certidões de Nascimento e Casamento</p>
-                    <p class='servico'><i class='fa fa-check'></i> Antecedentes Criminais</p>
-                    <p class='servico'><i class='fa fa-check'></i> Elaboração de Curriculum</p>
-                    <p class='servico'><i class='fa fa-check'></i> Emissão de CPF / Renovação de CNH</p>         
-                    <p class='servico'><i class='fa fa-check'></i> Inscrição e Consulta da Nota Fiscal Paulista</p>  
-                    <p class='servico'><i class='fa fa-check'></i> Manutenção Preventiva de Notebooks</p>  
+                    <p class='servico'>
+                      <i class='fa fa-check'></i> 2º Via Certidões de Nascimento e Casamento
+                      <span class='servico-detalhe'>- Solicite a sua certidão</span>
+                    </p>
+                    <p class='servico'>
+                      <i class='fa fa-check'></i> Atestado de Antecedentes Criminais
+                      <span class='servico-detalhe'>- Para fim trabalhista entre outros retire o seu</span>
+                    </p>
+                    <p class='servico'>
+                      <i class='fa fa-check'></i> SCPC - Online
+                      <span class='servico-detalhe'>- Consulta de restrição financeira - SPC</span>
+                    </p>
+                    <p class='servico'>
+                      <i class='fa fa-check'></i> Montagem de Cv / Backup de Curriculum
+                      <span class='servico-detalhe'>- Criação sob medida para o seu perfil</span>
+                    </p>
+                    <p class='servico'>
+                      <i class='fa fa-check'></i> 2º via CPF / Agendamento para Renovação de CNH
+                      <span class='servico-detalhe'>- Expedição rápida ou agendada</span>
+                    </p>         
+                    <p class='servico'>
+                      <i class='fa fa-check'></i> Nota Fiscal Paulista - Inscrição e Consulta
+                      <span class='servico-detalhe'>- NFP Transferência e recuperação de senha</span>
+                    </p>  
+                    <p class='servico'>
+                      <i class='fa fa-check'></i> Suporte Técnico em TI
+                       <span class='servico-detalhe'>- Manutenção Preventiva de Computadores e Notebooks</span>
+                    </p>  
                   </div>
                   <div class='col-md-5 col-servicos'>
-                    <p class='servico'><i class='fa fa-check'></i> Impressões Preto e Branco / Color</p>
-                    <p class='servico'><i class='fa fa-check'></i> Digitalizações de Documentos</p>
-                    <p class='servico'><i class='fa fa-check'></i> Emissão de Boletim de Ocorrência</p>
-                    <p class='servico'><i class='fa fa-check'></i> Gravação de CDs e DVDs</p>    
-                    <p class='servico'><i class='fa fa-check'></i> Venda, Troca e Locação de Jogos PS3</p>    
-                    <p class='servico'><i class='fa fa-check'></i> E outros ...</p>    
+                    <p class='servico'>
+                      <i class='fa fa-check'></i> Impressão Preta e Branca / Colorida à Laser
+                      <span class='servico-detalhe'>- Via Pendrive, Celular ou Internet</span>
+                    </p>
+                    <p class='servico'>
+                      <i class='fa fa-check'></i> Scanner de Documentos
+                      <span class='servico-detalhe'>- Gravamos em Mídias, Dispositivos e Enviamos por e-mail</span>
+                    </p>
+                    <p class='servico'>
+                      <i class='fa fa-check'></i> Boletim de Ocorrência Online
+                      <span class='servico-detalhe'>- Registre seu B.O.</span>
+                    </p>
+                    <p class='servico'>
+                      <i class='fa fa-check'></i> Backups e Gravação em Discos e Dispositivos
+                      <span class='servico-detalhe'>- Executamos Backups de seus Arquivos em Mídias Removíveis</span>
+                    </p>    
+                    <p class='servico'>
+                      <i class='fa fa-check'></i> Vendas, Troca e Locação de Games de PS3
+                      <span class='servico-detalhe'>- Possuímos mais de 300 títulos de games</span>
+                    </p>    
+                    <p class='servico'>
+                      <i class='fa fa-check'></i> Rede sem Fio Wireless - WiFi
+                      <span class='servico-detalhe'>- Cadastre, Atualize e Baixe seus Aplicativos em seu Dispositivo</span>
+                    </p>    
+                    <p class='servico'>
+                      <i class='fa fa-check'></i> Grande Grade de Serviços em TI
+                      <span class='servico-detalhe'>- Solicite seu orçamento na página Contatos</span>
+                    </p>    
                   </div>
                 </div>
               </div>

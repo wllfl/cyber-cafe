@@ -83,12 +83,18 @@ h2.animated span{
 #servicos p.servico{
     color: #0090E4; 
     text-align: left;
-    font-size: 1.0em;
-    margin: 30px 0;
+    font-size: 1.2em;
+    margin: 10px 0;
 }
 
 #servicos .col-servicos{
     float: left;
+}
+
+span.servico-detalhe {
+  font-size: 0.7em;
+  width: 100%;
+  display: inline-block;
 }
 
 .location{
